@@ -1,119 +1,76 @@
-#EXTINF:0,MBC ACTION
+#EXTINF:0,MBC أكشن
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:0,MBC BOLLYWOOD
+#EXTINF:0,MBC بوليوود
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:0,MBC MAX
+#EXTINF:0,MBC ماكس
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:0,albaghdadiah
+#EXTINF:0,البغدادية
 http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
-#EXTINF:0,ALJAZEERA AR
+#EXTINF:0,الجزيرة
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 #EXTINF:0,AL YAUM
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-1,Funoon TV
+#EXTINF:0,فنون
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
-
-#EXTINF:-1,AL ARABIA TV
+#EXTINF:0,العربية
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1,Aljazeera
-rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high
-
-#EXTINF:-1,Aljazeera Doc
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera_documentary.swf?autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.tunisvista.com/medias/el-jazeera-documentary-online.html
-
-#EXTINF:-1,Aljazeera Children
+#EXTINF:0,الجزيرة أطفال
 http://brightcove03-f.akamaihd.net/jeem_mena_400@95898?gmswf=1407167774
-
-#EXTINF:-1,AL AQSA TV
-rtmp://live.aqsatv.atyaf.co:1935/aqsatv/live?hghpl=1407167774 playpath=tv swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=aqsa_tv&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.tunisvista.com/medias/al-aqsa-tv-live-direct-online-palestine.html
-
-#EXTINF:-1,Al Hadath
+#EXTINF:0,الحدث
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1,MTV Liban
+#EXTINF:0,MTV لبنان
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
- 
-#EXTINF:-1,LBC
+#EXTINF:0,LBC
 rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2
- 
-#EXTINF:-1,NBN
+#EXTINF:0,NBN
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
-
-#EXTINF:-1, Kuwait-tv
+#EXTINF:0, Kuwait-tv
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
- 
-#EXTINF:-1,kuwait-2
+#EXTINF:0,kuwait-2
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
- 
-#EXTINF:-1,kuwait-PLUS
+#EXTINF:0,kuwait-PLUS
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
- 
-#EXTINF:-1,kuwait-SPORT
+#EXTINF:0,kuwait-SPORT
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch3.sdp
- 
-#EXTINF:-1,kuwait-ARABE
+#EXTINF:0,kuwait-ARABE
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
- 
-#EXTINF:-1,kuwait-ETRAA
+#EXTINF:0,kuwait-ETRAA
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch4.sdp
- 
-#EXTINF:-1,kuwait-Sport-Extra
+#EXTINF:0,kuwait-Sport-Extra
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
- 
-#EXTINF:-1,KTV-Sport-Plus
+#EXTINF:0,KTV-Sport-Plus
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
-#EXTINF:-1,ABC News
+#EXTINF:0,ABC أخبار
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1, Alarabiya HD
-rtmp://167.114.101.234:1935/live?idu=lola123_77021940960/alarabiya
-#EXTINF:-1,Al Arabiya [COLOR red](BackUps)[/COLOR]
-rtmp://144.76.140.144:1935/jr1/AlArabiya
-#EXTINF:-1,Russia Alyam HD 1080
-http://odna.octoshape.net/f3f5m2v4/cds/ch3_auto.smil/playlist.m3u8
-#EXTINF:-1,BBC_arabic
-http://edge22.magictvbox.com/live/bbc_arabic/index.m3u8
-#EXTINF:-1,France_24_arabic
-http://edge20.magictvbox.com/live/france_24_arabic/index.m3u8
-#EXTINF:-1,DW Arabic
-http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:-1,Al-Kout-tv
-rtmp://66.23.237.233:1935/alkout/alkout
-#EXTINF:-1,i24News AR
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
-#EXTINF:-1,Al Alam tv
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alalam/ls_fiber/b_828.m3u8
-#EXTINF:-1,Alhurra Tv
-rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15
-#EXTINF:-1,Echorouk TV
-http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
-#EXTINF:-1,BBC World News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
-#EXTINF:-1,ABC News (US)
+#EXTINF:0,ABC الأمريكية
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1,Al Jazeera News (US)
+#EXTINF:0,DW العربية	
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0,الكوت
+rtmp://66.23.237.233:1935/alkout/alkout
+#EXTINF:0,i24News عربية
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+#EXTINF:0,الحرة
+rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15
+#EXTINF:0,الشروق
+http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
+#EXTINF:0,BBC العالم
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:0,الجزيرة أمريكا
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
-
-
-#EXTINF:0,QURAN TV
+#EXTINF:0,القرآن
 rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
-#EXTINF:0,KAS
+#EXTINF:0,السعودية
 http://137.135.64.32:1935/kas/kas/playlist.m3u8
-#EXTINF:0,IRAQ SPORT
-http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
-#EXTINF:0,ADDOUNIA TV
+#EXTINF:0,ساما سوريا
 rtmp://sama-tv.net/live/samatv
-#EXTINF:0,SAMA SYRIA
-rtmp://sama-tv.net/live//samatv
-#EXTINF:0,SPEDA
-http://sepidehlive.nanocdn.com:1935/live/sepideh256/hasan.m3u8
-#EXTINF:0,SHARJAH
+#EXTINF:0,الشارقة
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
-#EXTINF:0,AL AGHANI
+#EXTINF:0,الأغاني
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-#EXTINF:0,SYRIA DRAMA
+#EXTINF:0,سوريا دراما
 rtmp://82.137.248.21/Drama/DramaLive2
-#EXTINF:0,SYRIA DRAMA
+#EXTINF:0,سوريا دراما
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 #EXTINF:0,NOOR DUBAI
 http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w932561967_b1200000.m3u8
@@ -153,7 +110,4 @@ http://63.237.48.23/ios/FACE2/FACE2.m3u8
 http://admin.8packlive.tulix.tv/hls/bollywoodflix/bollywoodflix.m3u8
 #EXTINF:0,Bollywood Movies
 http://admin.8packlive.tulix.tv/hls/bollywoodmovies/bollywoodmovies.m3u8
-#EXTINF:-1,AD SPORTS1
-http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
-#EXTINF:-1,ARABIC-Sport TV
-rtmp://stream2.joinvisions.net/jorlive/s1
+
