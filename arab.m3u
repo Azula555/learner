@@ -9,13 +9,19 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,MBC_BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
-#EXTINF:-1,Discovery Channel HD
-http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
-#EXTINF:-1,Disney Channel HD
-http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
-#EXTINF:-1,ABC 22 HD
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
 
+#EXTINF:0, ZOOMOO
+http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8
+#EXTINF:0, DISNEY JUNIOR
+http://bit.ly/IPTVGlobal-disneyjr
+#EXTINF:0, CARTOON NETWORK
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:0, CARTOON NETWORK
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/4.m3u8
+#EXTINF:0, CBeebies 720p
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/6.m3u8
+#EXTINF:-1, Nickeloden 1080p (Rus/Eng)
+http://bit.do/bkWKR
 
 
 #EXTINF:-1,beinHD Sports HD1
