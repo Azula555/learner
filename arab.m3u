@@ -1,30 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Bein Sport 1 SD
-http://iptv.star7arab.com:80/star7arab/8534275/18.ch
-#EXTINF:-1,Bein Sport 2 SD
-http://iptv.star7arab.com:80/star7arab/8534275/19.ch
-#EXTINF:-1,Bein Sport 3 SD
-http://iptv.star7arab.com:80/star7arab/8534275/20.ch
-#EXTINF:-1,Bein Sport 4 SD
-http://iptv.star7arab.com:80/star7arab/8534275/21.ch
-#EXTINF:-1,Bein Sport 5 SD
-http://iptv.star7arab.com:80/star7arab/8534275/22.ch
-#EXTINF:-1,Bein Sport 6 SD
-http://iptv.star7arab.com:80/star7arab/8534275/23.ch
-#EXTINF:-1,Bein Sport 7 SD
-http://iptv.star7arab.com:80/star7arab/8534275/24.ch
-#EXTINF:-1,Bein Sport 8 SD
-http://iptv.star7arab.com:80/star7arab/8534275/25.ch
-#EXTINF:-1,Bein Sport 9 SD
-http://iptv.star7arab.com:80/star7arab/8534275/26.ch
-#EXTINF:-1,Bein Sport 10 SD
-http://iptv.star7arab.com:80/star7arab/8534275/27.ch
-#EXTINF:-1,Bein Sport 11 SD
-http://iptv.star7arab.com:80/star7arab/8534275/28.ch
-#EXTINF:-1,Bein Sport 12 SD
-http://iptv.star7arab.com:80/star7arab/8534275/29.ch
-#EXTINF:-1,beIN SPORTS News
-http://iptv.star7arab.com:80/star7arab/8534275/17.ch
+
 #EXTINF:-1,beinHD Sports HD1
 http://iptv.star7arab.com:80/star7arab/8534275/1.ch
 #EXTINF:-1,beinHD Sports HD2
@@ -47,13 +22,4 @@ http://iptv.star7arab.com:80/star7arab/8534275/9.ch
 http://iptv.star7arab.com:80/star7arab/8534275/10.ch
 #EXTINF:-1,beinHD Sports HD11
 http://iptv.star7arab.com:80/star7arab/8534275/11.ch
-#EXTINF:-1,beinHD Sports HD12
-http://iptv.star7arab.com:80/star7arab/8534275/12.ch
-#EXTINF:-1,beinHD Sports HD13
-http://iptv.star7arab.com:80/star7arab/8534275/13.ch
-#EXTINF:-1,beinHD Sports HD14
-http://iptv.star7arab.com:80/star7arab/8534275/14.ch
-#EXTINF:-1,beinHD Sports HD15
-http://iptv.star7arab.com:80/star7arab/8534275/15.ch
-#EXTINF:-1,beinHD Sports HD16
-http://iptv.star7arab.com:80/star7arab/8534275/16.ch
+
