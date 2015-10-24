@@ -2,6 +2,30 @@
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
+#EXTINF:-1,AR:OSN MOVIES HD
+http://iptv15.zapto.org:8000/live/freefi/2015/1748.m3u8
+#EXTINF:-1,OSN-YaHala-HD
+http://iptv15.zapto.org:8000/live/freefi/2015/1742.m3u8
+#EXTINF:-1,OSN-YaHala-DRAMA-HD
+http://iptv15.zapto.org:8000/live/freefi/2015/1743.m3u8
+#EXTINF:-1,OSN-ON-Drama-1-HD
+http://iptv15.zapto.org:8000/live/freefi/2015/1744.m3u8
+#EXTINF:-1,OSN-Movies-FESTIVAL-HD
+http://iptv15.zapto.org:8000/live/freefi/2015/1750.m3u8
+#EXTINF:-1,OSN-Movies-Action-HD
+http://iptv15.zapto.org:8000/live/freefi/2015/1751.m3u8
+#EXTINF:-1,OSN-MOVIES-ACTION-2-HD
+http://iptv15.zapto.org:8000/live/freefi/2015/1752.m3u8
+#EXTINF:-1,OSN-First-HD
+http://iptv15.zapto.org:8000/live/freefi/2015/1745.m3u8
+#EXTINF:-1,OSN-Cinema-2-HD
+http://iptv15.zapto.org:8000/live/freefi/2015/1746.m3u8
+#EXTINF:-1,OSN-Cinema-1-HD
+http://iptv15.zapto.org:8000/live/freefi/2015/1747.m3u8
+#EXTINF:-1,OSN--Star-Movies-HD
+http://iptv15.zapto.org:8000/live/freefi/2015/1749.m3u8
+
+
 #EXTINF:-1,beinHD Sports HD1
 http://iptv.star7arab.com:80/star7arab/8534275/1.ch
 #EXTINF:-1,beinHD Sports HD2
