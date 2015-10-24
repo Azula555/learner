@@ -2,6 +2,27 @@
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
+#EXTINF:-1,MBC 1
+http://bit.ly/1OBdWvq
+
+#EXTINF:-1,MBC 2
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+
+
+#EXTINF:-1,MBC 3
+http://bit.ly/1RhvPgt
+#EXTINF:-1,MBC 3 - Link 2
+http://50.7.69.138:9080/hls/mbc3.m3u8
+#EXTINF:-1,MBC 3 - Link 3
+http://38.99.146.38:7777/MBC3_HD.m3u8?user=1441975005&session=e4724ee6a2741a3a32cf62bb836be4fee3e95ec1692f3cd5f86a8bd3cdd8c76c&v=520489549
+
+
+#EXTINF:-1,Mbc4 - Link 1
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1,MBC 4 - Link 2
+http://50.7.69.138:9080/hls/mbc4.m3u8
+
+
 #EXTINF:-1,MBC_MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,MBC_ACTION
@@ -18,14 +39,24 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/4.m3u8
 #EXTINF:0, CBeebies 720p
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/6.m3u8
 
-#EXTINF:-1,Cinemax 
-http://lag2.tv-mobile.org/prgb.m3u8 
-#EXTINF:-1,AXN 
-http://lag2.tv-mobile.org/prgd.m3u8 
-#EXTINF:-1,HBO 
-http://lag2.tv-mobile.org/prgp.m3u8 
-#EXTINF:-1,Filmbox 
-http://lag1.tv-mobile.org/prgw.m3u8
+#EXTINF:-1, Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1, Dubai ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1, Noor DubaiTV
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1, Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
+#EXTINF:-1, Dubai Racing
+http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1, Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+
+#EXTINF:-1,Kuwait Tv 
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
+#EXTINF:-1,Kuwait Tv 2
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
 
 
 #EXTINF:-1,beinHD Sports HD1
