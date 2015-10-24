@@ -9,40 +9,13 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,MBC_BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
-#EXTINF:-1 tvg-logo="BBC One.png" group-title="Live TV", BBC 1
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
-#EXTINF:-1 tvg-logo="BBC Two.png" group-title="Live TV", BBC 2
-http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
-#EXTINF:-1 tvg-logo="BBC Two.png" group-title="Live TV", BBC 2
-http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
-#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", BBC 1 HD
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
-#EXTINF:-1 tvg-logo="BBC2.png" group-title="Live TV", BBC  2 HD
-http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
-#EXTINF:-1 tvg-logo="BBC3.png" group-title="Live TV", BBC 3 HD
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc3.m3u8
-#EXTINF:-1 tvg-logo="BBC4.png" group-title="Live TV", BBC 4 HD
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc4.m3u8
-#EXTINF:-1 tvg-logo="STV.png" group-title="Live TV", STV - ITV Scotland
-http://csm-e-usc1-9.cds1.yospace.com/csm/live/92981621.m3u8
-#EXTINF:-1 tvg-logo="STV.png" group-title="Live TV", ITV 1
-http://uk.stream.yo.tv/livehttporigin/ITV1_360p.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", UK BBC ONE
-http://uk.stream.yo.tv/livehttporigin/BBCOne_360p.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", UK BBC TWO
-http://uk.stream.yo.tv/livehttporigin/BBCTwo_360p.stream/chunklist.m3u8  
-#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", UK ITV ONE
-http://uk.stream.yo.tv/livehttporigin/ITV1_360p.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", UK CH FOUR
-http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", UK CH FIVE
-http://uk.stream.yo.tv/livehttporigin/Channel5_360p.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", TLC
-http://202.75.23.34/live/ch35/03.m3u8?b?b*t$
-#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", Food Network
-http://83.139.104.123/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="BBC1.png" group-title="Live TV", LBC - (Dubai ENG)
-http://yoolive.com/hls/lbc.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+#EXTINF:-1,Disney Channel HD
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+#EXTINF:-1,ABC 22 HD
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+
 
 
 #EXTINF:-1,beinHD Sports HD1
