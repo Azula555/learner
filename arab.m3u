@@ -3,27 +3,41 @@
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 #EXTINF:-1,AR:OSN MOVIES HD
-http://iptv15.zapto.org:8000/live/freefi/2015/1748.m3u8
-#EXTINF:-1,OSN-YaHala-HD
-http://iptv15.zapto.org:8000/live/freefi/2015/1742.m3u8
-#EXTINF:-1,OSN-YaHala-DRAMA-HD
-http://iptv15.zapto.org:8000/live/freefi/2015/1743.m3u8
-#EXTINF:-1,OSN-ON-Drama-1-HD
-http://iptv15.zapto.org:8000/live/freefi/2015/1744.m3u8
-#EXTINF:-1,OSN-Movies-FESTIVAL-HD
-http://iptv15.zapto.org:8000/live/freefi/2015/1750.m3u8
-#EXTINF:-1,OSN-Movies-Action-HD
-http://iptv15.zapto.org:8000/live/freefi/2015/1751.m3u8
-#EXTINF:-1,OSN-MOVIES-ACTION-2-HD
-http://iptv15.zapto.org:8000/live/freefi/2015/1752.m3u8
-#EXTINF:-1,OSN-First-HD
-http://iptv15.zapto.org:8000/live/freefi/2015/1745.m3u8
-#EXTINF:-1,OSN-Cinema-2-HD
-http://iptv15.zapto.org:8000/live/freefi/2015/1746.m3u8
-#EXTINF:-1,OSN-Cinema-1-HD
-http://iptv15.zapto.org:8000/live/freefi/2015/1747.m3u8
-#EXTINF:-1,OSN--Star-Movies-HD
-http://iptv15.zapto.org:8000/live/freefi/2015/1749.m3u8
+#EXTINF:-1 Cairo-Cinema
+http://iptv-star-app.com:80/live?channelId=137&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 Rotana-Khalejia
+http://iptv-star-app.com:80/live?channelId=155&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 Alhayat-TV
+http://iptv-star-app.com:80/live?channelId=156&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 CBC-Extra
+http://iptv-star-app.com:80/live?channelId=157&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 CN-Arabia
+http://iptv-star-app.com:80/live?channelId=158&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 Alnahar
+http://iptv-star-app.com:80/live?channelId=159&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 Alhayat-Cinema
+http://iptv-star-app.com:80/live?channelId=160&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 Alnahar-Drama
+http://iptv-star-app.com:80/live?channelId=161&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 MBC-Pro-Sport-1
+http://iptv-star-app.com:80/live?channelId=162&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 MBC-Pro-Sport-2
+http://iptv-star-app.com:80/live?channelId=163&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 MBC-Pro-Sport-3
+http://iptv-star-app.com:80/live?channelId=164&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 MBC-Pro-Sport-4
+http://iptv-star-app.com:80/live?channelId=165&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 Tunisianat-2
+http://iptv-star-app.com:80/live?channelId=166&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 Toyor-Aljanah
+http://iptv-star-app.com:80/live?channelId=167&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 Qatar-TV
+http://iptv-star-app.com:80/live?channelId=168&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 JSC-Mubasher
+http://iptv-star-app.com:80/live?channelId=169&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 Iqraa
+http://iptv-star-app.com:80/live?channelId=170&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+
 
 
 #EXTINF:-1,beinHD Sports HD1
