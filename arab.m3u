@@ -2,12 +2,8 @@
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1,ARY NEWS
-rtmp://93.115.85.17:1935/ARYNEWS_2/myStream_240p
 #EXTINF:0,AL ARABIYA
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:0,AAA FAMILY
-http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8
 #EXTINF:0,KE
 http://46.245.160.224/mekke/mekke/playlist.m3u8
 #EXTINF:0,FUNOON TV
@@ -28,8 +24,6 @@ http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 rtmp://vstream2.hadara.ps/unlimitedalfajer//alfajertv2_2
 #EXTINF:0,AL FAJR
 rtmp://vstream2.hadara.ps/unlimitedalfajer//alfajertv2_1
-#EXTINF:0,QURAN TV
-rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
 #EXTINF:0,ADDOUNIA TV
 rtmp://sama-tv.net/live/samatv
 #EXTINF:0,SAMA SYRIA
@@ -42,23 +36,12 @@ rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 #EXTINF:0,SYRIA DRAMA
 rtmp://82.137.248.21/Drama/DramaLive2
-#EXTINF:0,SYRIA DRAMA
-http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
-#EXTINF:0,PAYAM
-http://payamlive.nanocdn.com:1935/live/payam256/hasan.m3u8
 #EXTINF:0,NOOR DUBAI
 http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w932561967_b1200000.m3u8
 #EXTINF:0,PBC PALESTINE
 rtmp://vstream2.hadara.ps/pbc/pbc_1
 #EXTINF:0,MARINA FM
 rtmp://38.96.175.16/live/MarinaFM2
-
-#EXTINF:0,Almas TV
-http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
-#EXTINF:0,Merci TV
-http://63.237.48.23/ios/MERCI_TV/MERCI_TV.m3u8
-#EXTINF:0,AAA Family
-http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8
 
 
 
