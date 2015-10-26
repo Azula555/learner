@@ -2,83 +2,58 @@
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-
-#EXTINF:-1, TNT SERIE
-http://tvi.ddns.me:8000/live/maradona/maradona/1031.m3u8
-
-#EXTINF:-1,MGM 
-http://151.80.30.185:8000/live/bruce/bruce/220.m3u8
-
-#EXTINF:-1,Krimi 
-http://151.80.30.185:8000/live/bruce/bruce/224.m3u8
-
-#EXTINF:-1,Fox 
-http://151.80.30.185:8000/live/bruce/bruce/222.m3u8
-
-#EXTINF:-1,Disney Cinemagic 
-http://151.80.30.185:8000/live/bruce/bruce/227.m3u8
-
-#EXTINF:-1,Discovery Channel 
-http://151.80.30.185:8000/live/bruce/bruce/225.m3u8
-
-#EXTINF:-1,Animal Planet 
-http://151.80.30.185:8000/live/bruce/bruce/226.m3u8
-
-#EXTINF:-1,13th Street 
-http://151.80.30.185:8000/live/bruce/bruce/221.m3u8
-
-#EXTINF:-1,NickJr 
-http://151.80.30.185:8000/live/bruce/bruce/244.m3u8
+#EXTINF:-1, ABC News
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/1007.ts
+#EXTINF:-1, AMC
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3552.ts
+#EXTINF:-1, Animal Planet
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3570.ts
+#EXTINF:-1, Bein USA
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3575.ts
+#EXTINF:-1, Big Ten
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3096.ts
+#EXTINF:-1, Bloomberg
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3576.ts
+#EXTINF:-1, CNBC
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3112.ts
+#EXTINF:-1, CNN
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3139.ts
+#EXTINF:-1, ESPN USA
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/1360.ts
+#EXTINF:-1, Fox Sports 1
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/740.ts
+#EXTINF:-1, FOX Sports 2
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3111.ts
+#EXTINF:-1, NBA TV
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3153.ts
+#EXTINF:-1, NBC SN
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/843.ts
+#EXTINF:-1, Spike
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3094.ts
+#EXTINF:-1, TSN 1
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/717.ts
+#EXTINF:-1, TSN 2
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/718.ts
+#EXTINF:-1, TSN 3
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3097.ts
+#EXTINF:-1, TSN 4
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/720.ts
+#EXTINF:-1, TSN 5
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/844.ts
+#EXTINF:-1, TNT
+http://iptvchoice.zapto.org:8000/live/grkaveman96@yahoo.com/CMKDKLtTp6/3553.ts
 
 
 #EXTINF:-1,Sky TNT Serie 
 http://151.80.30.185:8000/live/bruce/bruce/364.m3u8
-
 #EXTINF:-1,Sky SyFy 
 http://151.80.30.185:8000/live/bruce/bruce/363.m3u8
-
 #EXTINF:-1,Sky Sport Austria 
 http://151.80.30.185:8000/live/bruce/bruce/362.m3u8
-
 #EXTINF:-1,Sky Sport 1 
 http://151.80.30.185:8000/live/bruce/bruce/360.m3u8
-
 #EXTINF:-1,Sky Sport 2 
 http://151.80.30.185:8000/live/bruce/bruce/361.m3u8
-
-
-#EXTINF:-1,Sky Passion 
-http://151.80.30.185:8000/live/bruce/bruce/359.m3u8
-
-#EXTINF:-1,Sky Krimi 
-http://151.80.30.185:8000/live/bruce/bruce/357.m3u8
-
-#EXTINF:-1,Sky Comedy 
-http://151.80.30.185:8000/live/bruce/bruce/353.m3u8
-
-#EXTINF:-1,Sky Cinema 24 
-http://151.80.30.185:8000/live/bruce/bruce/351.m3u8
-
-#EXTINF:-1,Sky Cinema 
-http://151.80.30.185:8000/live/bruce/bruce/352.m3u8
-
-#EXTINF:-1,Sky Atlantic 
-http://151.80.30.185:8000/live/bruce/bruce/350.m3u8
-
-#EXTINF:-1,Sky Action 
-http://151.80.30.185:8000/live/bruce/bruce/349.m3u8
-
-#EXTINF:-1,Nat Geo Wild 
-http://151.80.30.185:8000/live/bruce/bruce/358.m3u8
-
-#EXTINF:-1,Fox  Backup
-http://151.80.30.185:8000/live/bruce/bruce/356.m3u8
-
-#EXTINF:-1,Disney XD 
-http://151.80.30.185:8000/live/bruce/bruce/355.m3u8
-
-#EXTINF:-1,Discovery 
-http://151.80.30.185:8000/live/bruce/bruce/354.m3u8
 
 
 #EXTINF:-1,MBC 2
