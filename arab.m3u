@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:-1, SKY SPORTS 1 HD
+rtmp://134.19.185.252:1935/livedge/mamahdsky11
+#EXTINF:-1, SKY SPORTS 2 HD
+rtmp://134.19.185.252:1935/livedge/mamahdsky2
+#EXTINF:-1, SKY SPORTS 3 HD
+rtmp://134.19.185.252:1935/livedge/mamahdsky3
+#EXTINF:-1, SKY SPORTS 4 HD
+rtmp://134.19.185.252:1935/livedge/mamahdsky4
+#EXTINF:-1, SKY SPORTS 5 HD
+rtmp://134.19.185.252:1935/livedge/mamahdsky5
+#EXTINF:-1, SKY SPORT F1
+rtmp://134.19.185.252:1935/livedge/mamahdskysportsf1
+#EXTINF:-1, SKY SPORT NEWS
+rtmp://134.19.185.252:1935/livedge/mamahdskynews
+#EXTINF:-1, BT SPORT 1
+rtmp://134.19.185.252:1935/livedge/mamahdbtsport1
+#EXTINF:-1, BT SPORT 2
+rtmp://134.19.185.252:1935/livedge/mamahdbtsport2
+
+
+
 #EXTINF:-1, MBC 1
 http://38.99.146.38:7777/MBC1_HD.m3u8
 #EXTINF:-1, MBC 2
