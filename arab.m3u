@@ -1,388 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Mbc 2
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,MBC_ACTION
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,MBC_BOLLYWOOD
-http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1,MBC_MAX
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1,2M
-http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
-#EXTINF:-1,AAA FAMILY
-http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8
-#EXTINF:-1,AAA MUSIC
-http://63.237.48.3/ios/AAA_MUSIC/AAA_MUSIC.m3u8
-#EXTINF:-1,ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
-#EXTINF:-1,ABOUDABI
-http://178.33.88.130:888/udp/239.102.0.197:1234
-#EXTINF:-1,ABOUDABI DRAMA
-http://178.33.88.130:888/udp/239.102.0.196:1234
-#EXTINF:-1,ABU DHABI SPORTS
-http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
-#EXTINF:-1,Addounia TV
-rtmp://sama-tv.net/live/samatv
-#EXTINF:-1,AGHANINA
-http://178.33.88.130:888/udp/239.102.0.217:1234
-#EXTINF:-1,AGYAL
-http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
-#EXTINF:-1,AL AGHANI
-http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-#EXTINF:-1,AL ARABIA TV
-http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1,AL BAGHDADIA 2
-http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
-#EXTINF:-1,AL BAGHDADIA 3
-http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
-#EXTINF:-1,AL FADY
-rtmp://stream.truth-voice.net/FadyLive//FadyLive
-#EXTINF:-1,Al Falstiniah TV
-rtmp://46.43.64.166/flv/flv
-#EXTINF:-1,AL FORAT
-http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
-#EXTINF:-1,AL HADATH
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1,AL HAYAT
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
-#EXTINF:-1,AL HAYAT 2
-http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
-#EXTINF:-1,AL HURRA
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1,AL IKHBARIA SYR
-http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
-#EXTINF:-1,AL INSAN
-http://178.33.88.130:888/udp/239.102.0.147:1234
-#EXTINF:-1,AL JAZEERA
-http://origin.live.web.tv.streamprovider.net/streams/0781744a5665d14230929df58f07b227_live_0_0/index.m3u8
-#EXTINF:-1,AL JAZEERA CHILD
-http://brightcove03-f.akamaihd.net/jeem_mena_400@95898?gmswf=1407167774
-#EXTINF:-1,AL JAZEERA DOC
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,AL JAZEERA INT
-http://origin.live.web.tv.streamprovider.net/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8
-#EXTINF:-1,AL KAWTHAR
-http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?
-#EXTINF:-1,AL MAGHRIBYA
-http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101_fra=64000-video=350000.m3u8
-#EXTINF:-1,AL NABA
-http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:-1,AL OLAULA
-http://alaoulainter-tv.scdn.arkena.com/alaoulainter.isml/alaoulainter-audio101=64000-video=350000.m3u8
-#EXTINF:-1,Al Oula TV
-rtmp://82.137.248.21/Aloula/AloulaLive2
-#EXTINF:-1,AL RAYAN
-http://78.100.40.195:1935/ryn/ryn/gmswf.m3u8
-#EXTINF:-1,AL Resala
-http://185.5.222.227:4242/bysid/5611
-#EXTINF:-1,AL RYAN
-rtmp://AgendaStreamerx1.qna.org.qa/ryn/ryn
-#EXTINF:-1,AL SHARGIYA
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
-#EXTINF:-1,AL SHARGIYA
-http://46.165.208.230:1935/alsharqiyalive/mystream/gmswf.m3u8
-#EXTINF:-1,AL SHARGIYA
-rtmp://alforatlive.nanocdn.com/live/alforat256
-#EXTINF:-1,Al Sharqiya News
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
-#EXTINF:-1,AL SUMARIA
-http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8
-#EXTINF:-1,AL YAUM
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-1,AL-Adalah
-http://185.5.222.227:4242/bysid/5613
-#EXTINF:-1,alhayat
-http://178.33.88.129:888/udp/239.102.0.108:1234
-#EXTINF:-1,alhayat2
-http://178.33.88.129:888/udp/239.102.0.176:1234
-#EXTINF:-1,Alhurra TV
-rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
-#EXTINF:-1,Alikhbaria Syria
-rtmp://82.137.248.16/Snews/SnewsLive1
-#EXTINF:-1,Aljazeera Arabic
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
-#EXTINF:-1,AlJazeera Children
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
-#EXTINF:-1,Aljazeera Doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,ALJAZEERA KIDS
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
-#EXTINF:-1,alkass
-rtmp://AgendaStreamerx1.qna.org.qa/kas//kas
-#EXTINF:-1,ALMAS TV
-http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
-#EXTINF:-1,ALMAS TV2
-http://63.237.48.3/ios/ALMAS_TV/ALMAS_TV.m3u8
-#EXTINF:-1,Al-Quds
-http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,ALWAN
-http://178.33.88.130:888/udp/239.102.0.191:1234
-#EXTINF:-1,ANN NEWS
-rtmp://ns8.indexforce.com/ann/ann
-#EXTINF:-1,arab
-http://178.33.88.129:888/udp/239.102.0.168:1234
-#EXTINF:-1,arabia
-http://178.33.88.129:888/udp/239.102.0.204:1234
-#EXTINF:-1,ARABIAN TV
-rtmp://streaming.tootvs.com:1936/8018/8018
-#EXTINF:-1,ARABIC TV
-http://178.33.88.129:888/udp/239.102.0.89:1234
-#EXTINF:-1,ARABIC TV
-http://178.33.88.129:888/udp/239.102.0.88:1234
-#EXTINF:-1,ARABIC TV 33
-http://178.33.88.129:888/udp/239.102.0.95:1234
-#EXTINF:-1,ARABIC TV 34
-http://178.33.88.129:888/udp/239.102.0.100:1234
-#EXTINF:-1,ARABIC TV 35
-http://178.33.88.129:888/udp/239.102.0.101:1234
-#EXTINF:-1,ARABIC TV 37
-http://178.33.88.129:888/udp/239.102.0.103:1234
-#EXTINF:-1,ARABIKA
-http://178.33.88.130:888/udp/239.102.0.204:1234
-#EXTINF:-1,ARDIA (ALGERIE)
-http://178.33.88.130:888/udp/239.102.0.142:1234
-#EXTINF:-1,ARY NEWS
-rtmp://93.115.85.17:1935/ARYNEWS_2/myStream_240p
-#EXTINF:-1,ARY NEWS
-http://93.115.85.17:1935/ARYNEWS_2/myStream_240p/BratuMarian.m3u8
-#EXTINF:-1,atfal
-http://178.33.88.129:888/udp/239.102.0.207:1234
-#EXTINF:-1,AZHARI
-http://178.33.88.130:888/udp/239.102.0.159:1234
-#EXTINF:-1,BAHRAIN SPORT
-rtmp://alayam.netromedia.net/btv3/btv3
-#EXTINF:-1,BARAIM
-http://178.33.88.130:888/udp/239.102.0.194:1234
-#EXTINF:-1,BBC Arabia
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,bein sport 3
-http://178.33.88.129:888/udp/239.102.0.22:1234
-#EXTINF:-1,BEUR TV
-http://178.33.88.130:888/udp/239.102.0.101:1234
-#EXTINF:-1,caio drama
-http://178.33.88.129:888/udp/239.102.0.206:1234
-#EXTINF:-1,caio sinima
-http://178.33.88.129:888/udp/239.102.0.205:1234
-#EXTINF:-1,CAIRO CINEMA
-http://178.33.88.130:888/udp/239.102.0.205:1234
-#EXTINF:-1,CAIRO DRAMA
-http://178.33.88.130:888/udp/239.102.0.206:1234
-#EXTINF:-1,CANADA TVA SPORT
-rtmp://cp39414.live.edgefcs.net/live/event1@9756
-#EXTINF:-1,CANAL 1
-http://178.33.88.130:888/udp/239.102.0.74:1234
-#EXTINF:-1,canal plus franc
-http://178.33.88.129:888/udp/239.102.0.55:1234
-#EXTINF:-1,CANAL PLUS SPORT
-http://178.33.88.130:888/udp/239.102.0.55:1234
-#EXTINF:-1,CARTOON NET
-http://178.33.88.130:888/udp/239.102.0.57:1234
-#EXTINF:-1,cbc
-http://178.33.88.129:888/udp/239.102.0.178:1234
-#EXTINF:-1,CBC
-http://185.5.222.231:4242/bysid/5108
-#EXTINF:-1,CBC
-http://178.33.88.130:888/udp/239.102.0.178:1234
-#EXTINF:-1,CBC DERAMA
-http://178.33.88.130:888/udp/239.102.0.177:1234
-#EXTINF:-1,cbc drama
-http://178.33.88.129:888/udp/239.102.0.177:1234
-#EXTINF:-1,CHOUROUK TV (ALGERIE)
-http://178.33.88.130:888/udp/239.102.0.157:1234
-#EXTINF:-1,CHOUROUK TV HD
-http://178.33.88.130:888/udp/239.102.0.127:1234
-#EXTINF:-1,cinema
-http://178.33.88.129:888/udp/239.102.0.145:1234
-#EXTINF:-1,CINEMA
-http://178.33.88.130:888/udp/239.102.0.109:1234
-#EXTINF:-1,CN
-http://178.33.88.130:888/udp/239.102.0.89:1234
-#EXTINF:-1,CN ARABIC
-http://178.33.88.130:888/udp/239.102.0.207:1234
-#EXTINF:-1,CNA
-rtmp://str81.creacast.com:80/cna/live.sdp
-#EXTINF:-1,cosic
-http://178.33.88.129:888/udp/239.102.0.113:1234
-#EXTINF:-1,CSN SPORT
-rtmp://kv2.ts33.net/sat/us061
-#EXTINF:-1,CTV COPTIC
-http://sc-e1.streamcyclone.com:1935/ctvch_live/ctvch/playlist.m3u8
-#EXTINF:-1,D
-http://178.33.88.130:888/udp/239.102.0.122:1234
-#EXTINF:-1,DAR
-http://178.33.88.130:888/udp/239.102.0.149:1234
-#EXTINF:-1,DIDAR TV
-http://63.237.48.3/ios/DIDAR/DIDAR.m3u8
-#EXTINF:-1,Dijlah TV
-rtmp://stream.joinvisions.net/dij//dij
-#EXTINF:-1,DIMOCRATIA
-http://178.33.88.130:888/udp/239.102.0.169:1234
-#EXTINF:-1,DISCOVRY WORLD
-http://178.33.88.130:888/udp/239.102.0.90:1234
-#EXTINF:-1,DISNEY HD
-http://178.33.88.130:888/udp/239.102.0.88:1234
-#EXTINF:-1,drama
-http://178.33.88.129:888/udp/239.102.0.202:1234
-#EXTINF:-1,DUBAI DRAMA
-http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
-#EXTINF:-1,DUBAI ONE
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
-#EXTINF:-1,DUBAI ONE
-http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1,Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1,DUBAI SPORTS
-http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
-#EXTINF:-1,DUBAI SPORTS
-http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1,DUBAI TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
-#EXTINF:-1,DUBAI TV
-http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1,DW Arabia
-http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-1,DZAIR
-http://178.33.88.130:888/udp/239.102.0.248:1234
-#EXTINF:-1,DZAIR NEWS
-http://178.33.88.130:888/udp/239.102.0.247:1234
-#EXTINF:-1,ECHORUK
-http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
-#EXTINF:-1,EL MEHVAR
-http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1096642953
-#EXTINF:-1,ELAKSA
-http://178.33.88.130:888/udp/239.102.0.138:1234
-#EXTINF:-1,ELAOUALA (MAROC)
-http://178.33.88.130:888/udp/239.102.0.137:1234
-#EXTINF:-1,ELASSIMA
-http://178.33.88.130:888/udp/239.102.0.238:1234
-#EXTINF:-1,ELDJANOUBIA
-http://178.33.88.130:888/udp/239.102.0.168:1234
-#EXTINF:-1,ELHAYAT
-http://178.33.88.130:888/udp/239.102.0.226:1234
-#EXTINF:-1,ELHAYAT
-http://178.33.88.130:888/udp/239.102.0.176:1234
-#EXTINF:-1,ELHORA
-http://178.33.88.130:888/udp/239.102.0.224:1234
-#EXTINF:-1,ELIRAKIA
-http://178.33.88.130:888/udp/239.102.0.175:1234
-#EXTINF:-1,ELISKANDARIA
-http://178.33.88.130:888/udp/239.102.0.220:1234
-#EXTINF:-1,ELKAHERA
-http://178.33.88.130:888/udp/239.102.0.116:1234
-#EXTINF:-1,ELKAHIRA WA ELNAS
-http://178.33.88.130:888/udp/239.102.0.161:1234
-#EXTINF:-1,ELKODAS
-http://178.33.88.130:888/udp/239.102.0.240:1234
-#EXTINF:-1,ELKORAN EL KARIM
-http://178.33.88.130:888/udp/239.102.0.152:1234
-#EXTINF:-1,ELMADJAD
-http://178.33.88.130:888/udp/239.102.0.200:1234
-#EXTINF:-1,ELMAGHRIBIA ARDIA
-http://178.33.88.130:888/udp/239.102.0.198:1234
-#EXTINF:-1,ELWATAN (ALGERIE)
-http://178.33.88.130:888/udp/239.102.0.134:1234
-#EXTINF:-1,ELYOUM
-http://178.33.88.130:888/udp/239.102.0.155:1234
-#EXTINF:-1,ENNAHR LAKI
-http://178.33.88.130:888/udp/239.102.0.129:1234
-#EXTINF:-1,ENNAHR TV (ALGERIE)
-http://178.33.88.130:888/udp/239.102.0.132:1234
-#EXTINF:-1,EUROSPORT 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,Face 2 Face
-http://63.237.48.23/ios/FACE2/FACE2.m3u8
-#EXTINF:-1,FAMILY TV2
-http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8
-#EXTINF:-1,FATAFEAT
-http://178.33.88.130:888/udp/239.102.0.180:1234
-#EXTINF:-1,FOUNOUN
-http://178.33.88.130:888/udp/239.102.0.251:1234
-#EXTINF:-1,FOX
-http://185.5.222.227:4242/bysid/5603
-#EXTINF:-1,FOX
-http://185.5.222.227:4242/bysid/5603
-#EXTINF:-1,FOX
-http://178.33.88.130:888/udp/239.102.0.249:1234
-#EXTINF:-1,Fox
-http://185.5.222.227:4242/bysid/5603
-#EXTINF:-1,Fox Movies
-http://185.5.222.227:4242/bysid/5608
-#EXTINF:-1,FOX MOVIES
-http://178.33.88.130:888/udp/239.102.0.181:1234
-#EXTINF:-1,foxmouvie
-http://178.33.88.129:888/udp/239.102.0.181:1234
-#EXTINF:-1,FREE TV
-http://178.33.88.130:888/udp/239.102.0.179:1234
-#EXTINF:-1,GEAR ONE
-http://178.33.88.130:888/udp/239.102.0.156:1234
-#EXTINF:-1,Gem Mifa
-http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8
-#EXTINF:-1,Global TV
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
-#EXTINF:-1,Halab Today TV
-rtmp://streaming.tootvs.com/8010/8010
-#EXTINF:-1,HANABAAL
-http://178.33.88.130:888/udp/239.102.0.166:1234
-#EXTINF:-1,HAYAT MOBACHER
-http://178.33.88.130:888/udp/239.102.0.108:1234
-#EXTINF:-1,HC TV
-http://162.212.176.83:8080/hctvgermany.m3u8
-#EXTINF:-1,I24 News Arabia
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
-#EXTINF:-1,ICC TV
-http://63.237.48.3/ios/ICC/ICC.m3u8
-#EXTINF:-1,imageni
-http://178.33.88.129:888/udp/239.102.0.126:1234
-#EXTINF:-1,IMAGINE MOVIES
-http://178.33.88.130:888/udp/239.102.0.126:1234
-#EXTINF:-1,INDEX ALGERIE
-http://178.33.88.130:888/udp/239.102.0.242:1234
-#EXTINF:-1,I-News TV
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/512.m3u8
-#EXTINF:-1,Iqraatv
-http://fl1.viastreaming.net:1935/iqraatv/livestream/playlist.m3u8
-#EXTINF:-1,ONYX HD
-http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
-#EXTINF:-1,IRAQ TV
-http://212.7.205.5:1935/Iraqia/live/BratuMarian.m3u8
-#EXTINF:-1,JORDAN
-rtmp://64.251.14.168/jorlive/jrtv
-#EXTINF:-1,KABE TV
-rtmp://ib12.islambox.tv/live/scqur?key=A684B24820F55A44990C5EABE95CF88F7C1EFAA45C6BBF54D19568A9C9A449F3timeout=20
-#EXTINF:-1,KABE TV
-http://46.245.160.224/mekke/mekke/playlist.m3u8
-#EXTINF:-1,KATAR
-rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv
-#EXTINF:-1,KOKI (KIDS)
-http://178.33.88.130:888/udp/239.102.0.143:1234
-#EXTINF:-1,KUWAIT PLUS
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
-#EXTINF:-1,LBC
-http://178.33.88.130:888/udp/239.102.0.182:1234
-#EXTINF:-1,LIBYA 2
-http://173.224.120.161:1935/live/myStream/gmswf.m3u8
-#EXTINF:-1,LIBYA TV
-http://ift.tt/1G9kX1S
-#EXTINF:-1,LIVING 2
-http://178.33.88.130:888/udp/239.102.0.192:1234
-#EXTINF:-1,M
-http://178.33.88.130:888/udp/239.102.0.113:1234
-#EXTINF:-1,M
-http://178.33.88.130:888/udp/239.102.0.174:1234
-#EXTINF:-1,MAANNEWS
-http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
-#EXTINF:-1,maghrebia
-http://178.33.88.129:888/udp/239.102.0.198:1234
-#EXTINF:-1,MARINA FM
-rtmp://38.96.175.16/live/MarinaFM2
-#EXTINF:-1,MASRIA
-http://178.33.88.130:888/udp/239.102.0.185:1234
-#EXTINF:-1,MAYADEEN
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
-#EXTINF:-1,mazika
-http://178.33.88.129:888/udp/239.102.0.183:1234
-#EXTINF:-1,MAZZIKA
-http://178.33.88.130:888/udp/239.102.0.183:1234
 #EXTINF:-1,MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC 4
@@ -403,6 +19,101 @@ http://intigral_live-lh.akamaihd.net/i/DPS3SPLITDXRAD150315_1@129126/index_512_a
 http://intigral_live-lh.akamaihd.net/i/DPS3SPLFTHXTWN070315_1@129126/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,MBC_ACTION 2
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1,Mbc 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+#EXTINF:-1,MBC_ACTION
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1,MBC_BOLLYWOOD
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1,MBC_MAX
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1,AAA FAMILY
+http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8
+#EXTINF:-1,AAA MUSIC
+http://63.237.48.3/ios/AAA_MUSIC/AAA_MUSIC.m3u8
+#EXTINF:-1,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
+#EXTINF:-1,Addounia TV
+rtmp://sama-tv.net/live/samatv
+#EXTINF:-1,AGYAL
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
+#EXTINF:-1,AL AGHANI
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+#EXTINF:-1,AL ARABIA TV
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,Al Falstiniah TV
+rtmp://46.43.64.166/flv/flv
+#EXTINF:-1,AL HADATH
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,AL HURRA
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,AL NABA
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1,AL RAYAN
+http://78.100.40.195:1935/ryn/ryn/gmswf.m3u8
+#EXTINF:-1,AL YAUM
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:-1,ALMAS TV
+http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
+#EXTINF:-1,ALMAS TV2
+http://63.237.48.3/ios/ALMAS_TV/ALMAS_TV.m3u8
+#EXTINF:-1,Al-Quds
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,CARTOON NET
+http://178.33.88.130:888/udp/239.102.0.57:1234
+#EXTINF:-1,CBC
+http://185.5.222.231:4242/bysid/5108
+#EXTINF:-1,DISCOVRY WORLD
+http://178.33.88.130:888/udp/239.102.0.90:1234
+#EXTINF:-1,DISNEY HD
+http://178.33.88.130:888/udp/239.102.0.88:1234
+#EXTINF:-1,DUBAI ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
+#EXTINF:-1,DUBAI TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
+#EXTINF:-1,DW Arabia
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1,EL MEHWAR
+http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1096642953
+#EXTINF:-1,EUROSPORT 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,FAMILY TV2
+http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8
+#EXTINF:-1,Global TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
+#EXTINF:-1,Halab Today TV
+rtmp://streaming.tootvs.com/8010/8010
+#EXTINF:-1,HAYAT MOBACHER
+http://178.33.88.130:888/udp/239.102.0.108:1234
+#EXTINF:-1,I24 News Arabia
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+#EXTINF:-1,JORDAN
+rtmp://64.251.14.168/jorlive/jrtv
+#EXTINF:-1,KABE TV
+rtmp://ib12.islambox.tv/live/scqur?key=A684B24820F55A44990C5EABE95CF88F7C1EFAA45C6BBF54D19568A9C9A449F3timeout=20
+#EXTINF:-1,QATAR
+rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv
+#EXTINF:-1,KUWAIT PLUS
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
+#EXTINF:-1,LBC
+http://178.33.88.130:888/udp/239.102.0.182:1234
+#EXTINF:-1,LIBYA 2
+http://173.224.120.161:1935/live/myStream/gmswf.m3u8
+#EXTINF:-1,LIBYA TV
+http://ift.tt/1G9kX1S
+http://178.33.88.129:888/udp/239.102.0.198:1234
+#EXTINF:-1,MARINA FM
+rtmp://38.96.175.16/live/MarinaFM2
+#EXTINF:-1,MASRIA
+http://178.33.88.130:888/udp/239.102.0.185:1234
+#EXTINF:-1,MAYADEEN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
+#EXTINF:-1,mazika
+http://178.33.88.129:888/udp/239.102.0.183:1234
+#EXTINF:-1,MAZZIKA
+http://178.33.88.130:888/udp/239.102.0.183:1234
 #EXTINF:-1,MED LIVE
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_528.m3u8
 #EXTINF:-1,MEDI 1
@@ -669,6 +380,7 @@ http://178.33.88.130:888/udp/239.102.0.85:1234
 http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
 #EXTINF:-1,ZAITOUNA
 http://178.33.88.130:888/udp/239.102.0.170:1234
+
 
 
 #EXTINF:-1,MBC 2
