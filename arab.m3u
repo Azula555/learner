@@ -31,6 +31,49 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1,EL MEHWAR
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1096642953
 
+________________
+
+http://iptv.electro-clair.net:8000/get.php?username=nader&password=nader&type=m3u
+ote sport 1 | 
+http://38.122.233.10:1935/gr-live/otesport1.sdp/playlist.m3u8
+ote sport 2 | 
+http://38.122.233.10:1935/gr-live/otesport2.sdp/playlist.m3u8
+ote sport 3 | 
+http://38.122.233.10:1935/gr-live/otesport3.sdp/playlist.m3u8
+ote sport 4 | 
+http://38.122.233.10:1935/gr-live/otesport4.sdp/playlist.m3u8
+ote sport 5 | 
+http://38.122.233.10:1935/gr-live/otesport5.sdp/playlist.m3u8
+roba | 
+http://enz-iptv.dyndns.tv:8000/get.php?username=michele&password=michele&type=m3u
+http://balancer2.herokuapp.com/d/fbmakiatoiptv/satsupreme/103/index.m3u8
+| 
+http://balancer2.herokuapp.com/d/fbmakiatoiptv/satsupreme/103/index.m3u8
+TRT HD | 
+http://3srvtaxxu.euteam.net:10200/api/v1/iptv/channels/play/2253/2130/Gb7NnjMXnnmnTcK69XaSU4Gc9Ox8iP/182
+Djing Hot | 
+http://cdn.djing.com/tv/h-05.m3u8
+CBC SPORT HD | 
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+CBC SPORT SD | 
+http://s69362.cdn.ngenix.net/live/_definst_/Stream2/chunklist.m3u8
+CBC SPORT LQ | 
+http://s69362.cdn.ngenix.net/live/_definst_/Stream3/chunklist.m3u8
+stendal | 
+rtmp://62.113.210.250/medienasa-live/ok-stendal_high
+magdeburg | 
+rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
+dessau | 
+rtmp://62.113.210.250/medienasa-live/ok-dessau_high
+dutch | 
+rtmp://62.113.210.105/ltv-live/livestream
+http://mediabay.uz/channels/liveTv/1-YoshlarTASIX/581
+http://mediabay.uz/channels/liveTv/1-YoshlarTASIX/581
+Setanta Sport | 
+http://by.mnogo-tv.com:1937/live/setantatvv.stream/pl.m3u8
+
+
+
 
 #EXTINF:-1,MBC_ACTION 2
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
