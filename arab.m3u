@@ -1,6 +1,29 @@
 #EXTM3U
-#EXTINF:-1,#######   Arabic    ##########
-http://skyiptv.ddns.net:8000/live/edi/edi/394.ts
+
+#EXTINF:-1,AR-LBC
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1643.ts
+#EXTINF:-1,AR:MBC1
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1379.ts
+#EXTINF:-1,AR-MBC-2
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1380.ts
+#EXTINF:-1,AR-MBC3
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1381.ts
+#EXTINF:-1,AR-MBC4
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1382.ts
+#EXTINF:-1,AR-MBCDrama
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1385.ts
+#EXTINF:-1,AR-MBCMax
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1387.ts
+#EXTINF:-1,AR-MBCAction
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1383.ts
+#EXTINF:-1,AR-MBC-Bollywood
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1384.ts
+#EXTINF:-1,AR-MBCMasr
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1386.ts
+#EXTINF:-1,AR-mbcmasar2
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1395.ts
+
+
 
 #EXTINF:-1,MBC 1
 http://selling-team.net:8000/live/spagna/spagna/5571.ts
