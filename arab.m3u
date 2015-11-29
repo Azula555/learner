@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,AR-LBC
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1643.ts
 #EXTINF:-1,AR:MBC1
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1379.ts
 #EXTINF:-1,AR-MBC-2
@@ -22,6 +20,8 @@ http://iptv777.dyndns.tv:8000/live/gravity/gravity/1384.ts
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1386.ts
 #EXTINF:-1,AR-mbcmasar2
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1395.ts
+#EXTINF:-1,AR-LBC
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1643.ts
 
 
 
@@ -59,42 +59,42 @@ http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v
 ________________
 
 http://iptv.electro-clair.net:8000/get.php?username=nader&password=nader&type=m3u
-ote sport 1 | 
+#EXTINF:-1,sport 1
 http://38.122.233.10:1935/gr-live/otesport1.sdp/playlist.m3u8
-ote sport 2 | 
+#EXTINF:-1,sport 2 
 http://38.122.233.10:1935/gr-live/otesport2.sdp/playlist.m3u8
-ote sport 3 | 
+#EXTINF:-1,sport 3
 http://38.122.233.10:1935/gr-live/otesport3.sdp/playlist.m3u8
-ote sport 4 | 
+#EXTINF:-1,sport 4
 http://38.122.233.10:1935/gr-live/otesport4.sdp/playlist.m3u8
-ote sport 5 | 
+#EXTINF:-1,sport 5
 http://38.122.233.10:1935/gr-live/otesport5.sdp/playlist.m3u8
-roba | 
+#EXTINF:-1,roba
 http://enz-iptv.dyndns.tv:8000/get.php?username=michele&password=michele&type=m3u
 http://balancer2.herokuapp.com/d/fbmakiatoiptv/satsupreme/103/index.m3u8
-| 
+#EXTINF:-1,sport 6
 http://balancer2.herokuapp.com/d/fbmakiatoiptv/satsupreme/103/index.m3u8
-TRT HD | 
+#EXTINF:-1,sport TRT HD 
 http://3srvtaxxu.euteam.net:10200/api/v1/iptv/channels/play/2253/2130/Gb7NnjMXnnmnTcK69XaSU4Gc9Ox8iP/182
-Djing Hot | 
+#EXTINF:-1,sport Djing Hot
 http://cdn.djing.com/tv/h-05.m3u8
-CBC SPORT HD | 
+#EXTINF:-1,sport CBC SPORT HD
 http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
-CBC SPORT SD | 
+#EXTINF:-1,sport CBC SPORT SD
 http://s69362.cdn.ngenix.net/live/_definst_/Stream2/chunklist.m3u8
-CBC SPORT LQ | 
+#EXTINF:-1,sport CBC SPORT LQ
 http://s69362.cdn.ngenix.net/live/_definst_/Stream3/chunklist.m3u8
-stendal | 
+#EXTINF:-1,sport stendal
 rtmp://62.113.210.250/medienasa-live/ok-stendal_high
-magdeburg | 
+#EXTINF:-1,sport magdeburg
 rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
-dessau | 
+#EXTINF:-1,sport dessau
 rtmp://62.113.210.250/medienasa-live/ok-dessau_high
-dutch | 
+#EXTINF:-1,sport dutch
 rtmp://62.113.210.105/ltv-live/livestream
 http://mediabay.uz/channels/liveTv/1-YoshlarTASIX/581
 http://mediabay.uz/channels/liveTv/1-YoshlarTASIX/581
-Setanta Sport | 
+#EXTINF:-1,sport Setanta Sport
 http://by.mnogo-tv.com:1937/live/setantatvv.stream/pl.m3u8
 
 
@@ -462,41 +462,3 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
 #EXTINF:0,AL YAUM
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:0,AL FAJR 2
-rtmp://vstream2.hadara.ps/unlimitedalfajer//alfajertv2_2
-#EXTINF:0,AL FAJR
-rtmp://vstream2.hadara.ps/unlimitedalfajer//alfajertv2_1
-#EXTINF:0,ADDOUNIA
-rtmp://sama-tv.net/live/samatv
-#EXTINF:0,SAMA SYRIA
-rtmp://sama-tv.net/live//samatv
-#EXTINF:0,SPEDA
-http://sepidehlive.nanocdn.com:1935/live/sepideh256/hasan.m3u8
-#EXTINF:0,SHARJAH
-rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
-#EXTINF:0,AL AGHANI
-http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-#EXTINF:0,SYRIA DRAMA
-rtmp://82.137.248.21/Drama/DramaLive2
-#EXTINF:0,PBC PALESTINE
-rtmp://vstream2.hadara.ps/pbc/pbc_1
-#EXTINF:0,MARINA FM
-rtmp://38.96.175.16/live/MarinaFM2
-#EXTINF:-1,BBC Arabia
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
-#EXTINF:0,AL ARABIYA
-http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:0,القرآن
-http://46.245.160.224/mekke/mekke/playlist.m3u8
-#EXTINF:0,FUNOON
-http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
-#EXTINF:0,AL RYAN
-rtmp://AgendaStreamerx1.qna.org.qa/ryn/ryn
-#EXTINF:0,AL AAN
-http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8
-#EXTINF:0,AL BAGHDADIA
-http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
-#EXTINF:0,AL BAGHDADIA 2
-http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
-
