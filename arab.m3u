@@ -28,15 +28,7 @@ http://217.20.164.196:8080/ndr/index.m3u8
 #EXTINF:-1,SWR
 http://217.20.164.196:8080/swr/index.m3u8
 
-http://62.210.248.96:11000/get.php?username=miricle75@yahoo.gr_uk&password=miricle75@yahoo.gr_uk&type=m3u
-http://bstream.starsplanet.org:8000/get.php?username=maradona&password=maradona&type=m3u
-http://star.010e.net:8000/get.php?username=123456789&password=987654321&type=m3u
-http://tvservice.webhop.me:80/get.php?username=Bova&password=&type=m3u
-http://tvservice.webhop.me:80/get.php?username=fedele&password=fedele&type=m3u
-http://enz-iptv.dyndns.tv:8000/get.php?username=cello&password=cello&type=m3u
-http://enz-iptv.dyndns.tv:8000/get.php?username=casale&password=casale&type=m3u
-http://5.196.91.197:3389/get.php?username=bruno&password=bruno&type=m3u
-
+http://skyiptv.ddns.net:8000/get.php?username=edi&password=edi&type=m3u
 
 
 #EXTINF:-1,I24 News Arabia
