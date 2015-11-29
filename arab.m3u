@@ -1,105 +1,37 @@
 #EXTM3U
+#EXTINF:-1,3SAT
+http://217.20.164.196:8080/3sat/index.m3u8
+#EXTINF:-1,ARD
+http://217.20.164.196:8080/ard/index.m3u8
+#EXTINF:-1,RBB
+http://217.20.164.196:8080/rbb/index.m3u8
+#EXTINF:-1,KIKA
+http://217.20.164.196:8080/kika/index.m3u8
+#EXTINF:-1,ZDF
+http://217.20.164.196:8080/zdf/index.m3u8
+#EXTINF:-1,VOX
+http://217.20.164.196:8080/vox/index.m3u8
+#EXTINF:-1,SAT1
+http://217.20.164.196:8080/sat1/index.m3u8
+#EXTINF:-1,RTL
+http://217.20.164.196:8080/rtl/index.m3u8
+#EXTINF:-1,N-TV
+http://217.20.164.196:8080/n-tv/index.m3u8
+#EXTINF:-1,Eurosport
+http://217.20.164.196:8080/eurosport/index.m3u8
+#EXTINF:-1,Euronews
+http://217.20.164.196:8080/euronews/index.m3u8
+#EXTINF:-1,MDR
+http://217.20.164.196:8080/mdr/index.m3u8
+#EXTINF:-1,NDR
+http://217.20.164.196:8080/ndr/index.m3u8
+#EXTINF:-1,SWR
+http://217.20.164.196:8080/swr/index.m3u8
 
-#EXTINF:-1,AR:MBC1
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1379.ts
-#EXTINF:-1,AR-MBC-2
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1380.ts
-#EXTINF:-1,AR-MBC3
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1381.ts
-#EXTINF:-1,AR-MBC4
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1382.ts
-#EXTINF:-1,AR-MBCDrama
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1385.ts
-#EXTINF:-1,AR-MBCMax
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1387.ts
-#EXTINF:-1,AR-MBCAction
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1383.ts
-#EXTINF:-1,AR-MBC-Bollywood
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1384.ts
-#EXTINF:-1,AR-MBCMasr
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1386.ts
-#EXTINF:-1,AR-mbcmasar2
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1395.ts
+
+
 #EXTINF:-1,AR-LBC
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1643.ts
-
-
-
-#EXTINF:-1,MBC 1
-http://selling-team.net:8000/live/spagna/spagna/5571.ts
-#EXTINF:-1,MBC 2
-http://selling-team.net:8000/live/spagna/spagna/5570.ts
-#EXTINF:-1,MBC 3
-http://selling-team.net:8000/live/spagna/spagna/5569.ts
-#EXTINF:-1,MBC 4
-http://selling-team.net:8000/live/spagna/spagna/5568.ts
-#EXTINF:-1,MBC ACTION
-http://selling-team.net:8000/live/spagna/spagna/5567.ts
-#EXTINF:-1,MBC BOLLYWOOD
-http://selling-team.net:8000/live/spagna/spagna/5566.ts
-#EXTINF:-1,MBC DRAMA
-http://selling-team.net:8000/live/spagna/spagna/5565.ts
-#EXTINF:-1,MBC MAX
-http://selling-team.net:8000/live/spagna/spagna/5564.ts
-#EXTINF:-1,MBC PRO SPORT 1
-http://selling-team.net:8000/live/spagna/spagna/5563.ts
-#EXTINF:-1,MBC PRO SPORT 2
-http://selling-team.net:8000/live/spagna/spagna/5562.ts
-#EXTINF:-1,MBC PRO SPORT 3
-http://selling-team.net:8000/live/spagna/spagna/5561.ts
-#EXTINF:-1,DUBAI ONE
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
-#EXTINF:-1,DUBAI TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
-#EXTINF:-1,DW Arabia
-http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-1,EL MEHWAR
-http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1096642953
-
-________________
-
-http://iptv.electro-clair.net:8000/get.php?username=nader&password=nader&type=m3u
-#EXTINF:-1,sport 1
-http://38.122.233.10:1935/gr-live/otesport1.sdp/playlist.m3u8
-#EXTINF:-1,sport 2 
-http://38.122.233.10:1935/gr-live/otesport2.sdp/playlist.m3u8
-#EXTINF:-1,sport 3
-http://38.122.233.10:1935/gr-live/otesport3.sdp/playlist.m3u8
-#EXTINF:-1,sport 4
-http://38.122.233.10:1935/gr-live/otesport4.sdp/playlist.m3u8
-#EXTINF:-1,sport 5
-http://38.122.233.10:1935/gr-live/otesport5.sdp/playlist.m3u8
-#EXTINF:-1,roba
-http://enz-iptv.dyndns.tv:8000/get.php?username=michele&password=michele&type=m3u
-http://balancer2.herokuapp.com/d/fbmakiatoiptv/satsupreme/103/index.m3u8
-#EXTINF:-1,sport 6
-http://balancer2.herokuapp.com/d/fbmakiatoiptv/satsupreme/103/index.m3u8
-#EXTINF:-1,sport TRT HD 
-http://3srvtaxxu.euteam.net:10200/api/v1/iptv/channels/play/2253/2130/Gb7NnjMXnnmnTcK69XaSU4Gc9Ox8iP/182
-#EXTINF:-1,sport Djing Hot
-http://cdn.djing.com/tv/h-05.m3u8
-#EXTINF:-1,sport CBC SPORT HD
-http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
-#EXTINF:-1,sport CBC SPORT SD
-http://s69362.cdn.ngenix.net/live/_definst_/Stream2/chunklist.m3u8
-#EXTINF:-1,sport CBC SPORT LQ
-http://s69362.cdn.ngenix.net/live/_definst_/Stream3/chunklist.m3u8
-#EXTINF:-1,sport stendal
-rtmp://62.113.210.250/medienasa-live/ok-stendal_high
-#EXTINF:-1,sport magdeburg
-rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
-#EXTINF:-1,sport dessau
-rtmp://62.113.210.250/medienasa-live/ok-dessau_high
-#EXTINF:-1,sport dutch
-rtmp://62.113.210.105/ltv-live/livestream
-http://mediabay.uz/channels/liveTv/1-YoshlarTASIX/581
-http://mediabay.uz/channels/liveTv/1-YoshlarTASIX/581
-#EXTINF:-1,sport Setanta Sport
-http://by.mnogo-tv.com:1937/live/setantatvv.stream/pl.m3u8
-
-
-
-
 #EXTINF:-1,MBC_ACTION 2
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,Mbc 2
