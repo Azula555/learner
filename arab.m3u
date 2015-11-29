@@ -28,10 +28,19 @@ http://217.20.164.196:8080/ndr/index.m3u8
 #EXTINF:-1,SWR
 http://217.20.164.196:8080/swr/index.m3u8
 
+http://62.210.248.96:11000/get.php?username=miricle75@yahoo.gr_uk&password=miricle75@yahoo.gr_uk&type=m3u
+http://bstream.starsplanet.org:8000/get.php?username=maradona&password=maradona&type=m3u
+http://star.010e.net:8000/get.php?username=123456789&password=987654321&type=m3u
+http://tvservice.webhop.me:80/get.php?username=Bova&password=&type=m3u
+http://tvservice.webhop.me:80/get.php?username=fedele&password=fedele&type=m3u
+http://enz-iptv.dyndns.tv:8000/get.php?username=cello&password=cello&type=m3u
+http://enz-iptv.dyndns.tv:8000/get.php?username=casale&password=casale&type=m3u
+http://5.196.91.197:3389/get.php?username=bruno&password=bruno&type=m3u
 
 
-#EXTINF:-1,AR-LBC
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1643.ts
+
+#EXTINF:-1,I24 News Arabia
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 #EXTINF:-1,MBC_ACTION 2
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,Mbc 2
@@ -72,14 +81,8 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1,FAMILY TV2
 http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8
-#EXTINF:-1,Global TV
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
 #EXTINF:-1,Halab Today TV
 rtmp://streaming.tootvs.com/8010/8010
-#EXTINF:-1,HAYAT MOBACHER
-http://178.33.88.130:888/udp/239.102.0.108:1234
-#EXTINF:-1,I24 News Arabia
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 #EXTINF:-1,JORDAN
 rtmp://64.251.14.168/jorlive/jrtv
 #EXTINF:-1,KABE TV
