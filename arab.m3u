@@ -5,10 +5,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
 
 
-#EXTINF:-1,MBC_ACTION 2
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,Mbc 2	
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC_ACTION
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,MBC_BOLLYWOOD
@@ -23,10 +19,6 @@ http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8
 
 #EXTINF:-1,Rotana
 http://185.5.222.227:4242/bysid/5601
-#EXTINF:-1,Rotana Cinema
-http://185.5.222.227:4242/bysid/5609
-#EXTINF:-1,ROTANA CINEMA
-http://178.33.88.130:888/udp/239.102.0.188:1234
 #EXTINF:-1,Rotana Cinema EGY
 http://185.5.222.227:4242/bysid/5607
 #EXTINF:-1,ROTANA CLASIC
