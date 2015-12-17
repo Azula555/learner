@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTINF:-1,Abc
+http://128.104.128.176:8080/udp/239.1.1.86:3086?live786
+#EXTINF:-1,CNN
+http://128.104.128.176:8080/udp/239.1.1.78:3078?live786
+#EXTINF:-1,CBS
+http://128.104.128.176:8080/udp/239.1.1.84:3084?live786
 #EXTINF:-1, MBC 1
 http://38.99.146.38:7777/MBC1_HD.m3u8
 #EXTINF:-1, MBC 2
@@ -584,4 +589,101 @@ http://217.20.164.196:8080/ndr/index.m3u8
 #EXTINF:-1,SWR
 http://217.20.164.196:8080/swr/index.m3u8
 
+
+#EXTINF:-1,mbc max
+http://148.251.73.76:8000/live/cristo/start1/300.m3u8
+#EXTINF:-1,mbc action
+http://148.251.73.76:8000/live/cristo/start1/299.m3u8
+#EXTINF:-1,mbc 4
+http://148.251.73.76:8000/live/cristo/start1/298.m3u8
+#EXTINF:-1,mbc 2
+http://148.251.73.76:8000/live/cristo/start1/297.m3u8
+#EXTINF:-1,mbc 1
+http://148.251.73.76:8000/live/cristo/start1/306.m3u8
+#EXTINF:-1,BEIN MOVIES 2HD
+http://148.251.73.76:8000/live/cristo/start1/290.m3u8
+#EXTINF:-1,BEIN MOVIES 1HD
+http://148.251.73.76:8000/live/cristo/start1/291.m3u8
+#EXTINF:-1,2m maroc
+http://148.251.73.76:8000/live/cristo/start1/305.m3u8
+#EXTINF:-1,bein Sports HD9 ar
+http://148.251.73.76:8000/live/cristo/start1/278.m3u8
+#EXTINF:-1,bein Sports HD8 ar
+http://148.251.73.76:8000/live/cristo/start1/279.m3u8
+#EXTINF:-1,bein Sports HD7 ar
+http://148.251.73.76:8000/live/cristo/start1/280.m3u8
+#EXTINF:-1,bein Sports HD6 ar
+http://148.251.73.76:8000/live/cristo/start1/281.m3u8
+#EXTINF:-1,bein Sports HD5 ar
+http://148.251.73.76:8000/live/cristo/start1/282.m3u8
+#EXTINF:-1,bein Sports HD4 ar
+http://148.251.73.76:8000/live/cristo/start1/283.m3u8
+#EXTINF:-1,bein Sports HD3 ar
+http://148.251.73.76:8000/live/cristo/start1/284.m3u8
+#EXTINF:-1,bein Sports HD2 ar
+http://148.251.73.76:8000/live/cristo/start1/287.m3u8
+#EXTINF:-1,bein Sports HD10 ar
+http://148.251.73.76:8000/live/cristo/start1/277.m3u8
+#EXTINF:-1,bein Sports HD1 ar
+http://148.251.73.76:8000/live/cristo/start1/288.m3u8
+#EXTINF:-1,bein sport hd2 fr
+http://148.251.73.76:8000/live/cristo/start1/294.m3u8
+#EXTINF:-1,bein sport hd1 fr
+http://148.251.73.76:8000/live/cristo/start1/295.m3u8
+#EXTINF:-1,bein sport hd1 en
+http://148.251.73.76:8000/live/cristo/start1/289.m3u8
+#EXTINF:-1,bein sport 3 en
+http://148.251.73.76:8000/live/cristo/start1/285.m3u8
+#EXTINF:-1,bein sport 2 en
+http://148.251.73.76:8000/live/cristo/start1/286.m3u8
+#EXTINF:-1,3sat
+http://148.251.73.76:8000/live/cristo/start1/79.m3u8
+#EXTINF:-1,AR-Toyor-jannah
+http://148.251.73.76:8000/live/cristo/start1/1.m3u8
+#EXTINF:-1,MTV.AM HD
+http://148.251.73.76:8000/live/cristo/start1/22.m3u8
+
+
+#EXTINF:-1,Abc
+http://128.104.128.176:8080/udp/239.1.1.86:3086?live786
+#EXTINF:-1,CNN
+http://128.104.128.176:8080/udp/239.1.1.78:3078?live786
+#EXTINF:-1,CBS
+http://128.104.128.176:8080/udp/239.1.1.84:3084?live786
+#EXTINF:-1,Fox 47
+http://128.104.128.176:8080/udp/239.1.1.88:3088?live786
+#EXTINF:-1,NBC
+http://128.104.128.176:8080/udp/239.1.1.90:3090?live786
+#EXTINF:-1,The Weather Channel
+http://128.104.128.176:8080/udp/239.1.1.82:3082?live786
+#EXTINF:-1,BET
+http://128.104.128.176:8080/udp/239.1.1.96:3096?live786
+#EXTINF:-1,Pbs Kids
+http://128.104.128.176:8080/udp/239.1.1.92:3092?live786
+#EXTINF:-1,Arirang
+http://128.104.128.176:8080/udp/239.1.1.211:2000?live786
+#EXTINF:-1,HLN
+http://128.104.128.176:8080/udp/239.1.1.80:3080?live786
+#EXTINF:-1,Art
+http://128.104.128.176:8080/udp/239.1.1.206:2000?live786
+#EXTINF:-1,CCTV News
+http://128.104.128.176:8080/udp/239.1.1.204:2000?live786
+#EXTINF:-1,WIS
+http://128.104.128.176:8080/udp/239.1.1.98:3098?live786
+#EXTINF:-1,C-SPAN
+http://128.104.128.176:8080/udp/239.1.1.94:3094?live786
+#EXTINF:-1,TV ASIA
+http://128.104.128.176:8080/udp/239.1.1.210:2000?live786
+#EXTINF:-1,RTN 9
+http://128.104.128.176:8080/udp/239.1.1.208:2000?live786
+#EXTINF:-1,Channel One Russia
+http://128.104.128.176:8080/udp/239.1.1.209:2000?live786
+#EXTINF:-1,CCTV 4
+http://128.104.128.176:8080/udp/239.1.1.212:2000?live786
+#EXTINF:-1,tvw
+http://128.104.128.176:8080/udp/239.1.1.25:3025?live786
+#EXTINF:-1,WIS EYE
+http://128.104.128.176:8080/udp/239.1.1.100:3100?live786
+#EXTINF:-1,Tivi 5
+http://128.104.128.176:8080/udp/239.1.1.214:2000?live786
 
