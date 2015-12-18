@@ -1,54 +1,102 @@
 #EXTM3U
-#EXTINF:-1,mbc max
-http://148.251.73.76:8000/live/cristo/start1/300.m3u8
-#EXTINF:-1,mbc action
-http://148.251.73.76:8000/live/cristo/start1/299.m3u8
-#EXTINF:-1,mbc 4
-http://148.251.73.76:8000/live/cristo/start1/298.m3u8
-#EXTINF:-1,mbc 2
-http://148.251.73.76:8000/live/cristo/start1/297.m3u8
-#EXTINF:-1,mbc 1
-http://148.251.73.76:8000/live/cristo/start1/306.m3u8
-#EXTINF:-1,BEIN MOVIES 2HD
-http://148.251.73.76:8000/live/cristo/start1/290.m3u8
-#EXTINF:-1,BEIN MOVIES 1HD
-http://148.251.73.76:8000/live/cristo/start1/291.m3u8
-#EXTINF:-1,2m maroc
-http://148.251.73.76:8000/live/cristo/start1/305.m3u8
-#EXTINF:-1,bein Sports HD9 ar
-http://148.251.73.76:8000/live/cristo/start1/278.m3u8
-#EXTINF:-1,bein Sports HD8 ar
-http://148.251.73.76:8000/live/cristo/start1/279.m3u8
-#EXTINF:-1,bein Sports HD7 ar
-http://148.251.73.76:8000/live/cristo/start1/280.m3u8
-#EXTINF:-1,bein Sports HD6 ar
-http://148.251.73.76:8000/live/cristo/start1/281.m3u8
-#EXTINF:-1,bein Sports HD5 ar
-http://148.251.73.76:8000/live/cristo/start1/282.m3u8
-#EXTINF:-1,bein Sports HD4 ar
-http://148.251.73.76:8000/live/cristo/start1/283.m3u8
-#EXTINF:-1,bein Sports HD3 ar
-http://148.251.73.76:8000/live/cristo/start1/284.m3u8
-#EXTINF:-1,bein Sports HD2 ar
-http://148.251.73.76:8000/live/cristo/start1/287.m3u8
-#EXTINF:-1,bein Sports HD10 ar
-http://148.251.73.76:8000/live/cristo/start1/277.m3u8
-#EXTINF:-1,bein Sports HD1 ar
-http://148.251.73.76:8000/live/cristo/start1/288.m3u8
-#EXTINF:-1,bein sport hd2 fr
-http://148.251.73.76:8000/live/cristo/start1/294.m3u8
-#EXTINF:-1,bein sport hd1 fr
-http://148.251.73.76:8000/live/cristo/start1/295.m3u8
-#EXTINF:-1,bein sport hd1 en
-http://148.251.73.76:8000/live/cristo/start1/289.m3u8
-#EXTINF:-1,bein sport 3 en
-http://148.251.73.76:8000/live/cristo/start1/285.m3u8
-#EXTINF:-1,bein sport 2 en
-http://148.251.73.76:8000/live/cristo/start1/286.m3u8
-#EXTINF:-1,3sat
-http://148.251.73.76:8000/live/cristo/start1/79.m3u8
-#EXTINF:-1,AR-Toyor-jannah
-http://148.251.73.76:8000/live/cristo/start1/1.m3u8
-#EXTINF:-1,MTV.AM HD
-http://148.251.73.76:8000/live/cristo/start1/22.m3u8
 
+#EXTINF:-1,Baraem
+http://spain.iptv.re:80/live/star7arab.com/star7arab.com/144.ts
+#EXTINF:-1,Cartoon network
+http://spain.iptv.re:80/live/star7arab.com/star7arab.com/200.ts
+#EXTINF:-1,MBC 1
+http://spain.iptv.re:80/live/star7arab.com/star7arab.com/163.ts
+#EXTINF:-1,MBC 1
+http://yosriiptv.zapto.org:8000/live/test1/test1/100.ts
+#EXTINF:-1,MBC 3
+http://spain.iptv.re:80/live/star7arab.com/star7arab.com/161.ts
+#EXTINF:-1,Nat Geo
+http://spain.iptv.re:80/live/star7arab.com/star7arab.com/156.ts
+#EXTINF:-1,MBC 3
+http://yosriiptv.zapto.org:8000/live/test1/test1/102.ts
+#EXTINF:-1,Nat Geo Ad
+http://yosriiptv.zapto.org:8000/live/test1/test1/151.ts
+#EXTINF:-1,israel channel 10
+http://yosriiptv.zapto.org:8000/live/test1/test1/1.ts
+#EXTINF:-1,Fatafeat
+http://yosriiptv.zapto.org:8000/live/test1/test1/150.ts
+#EXTINF:0,Funoon
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
+#EXTINF:-1,Dubai Drama
+http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w7946196_b1200000.m3u8
+#EXTINF:-1, Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
+#EXTINF:-1,Sama Dubai TV 
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350_b1200000.m3u8
+#EXTINF:-1,Noor Dubai TV 
+#EXTINF:-1,Al hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+#EXTINF:-1,osn
+http://spain.iptv.re:80/live/star7arab.com/star7arab.com/135.ts
+#EXTINF:-1,osn action
+http://spain.iptv.re:80/live/star7arab.com/star7arab.com/141.ts
+#EXTINF:-1,osn mov
+http://tvservice.webhop.me:80/live/iris/iris/230.ts
+#EXTINF:-1,osn cinema art 2
+http://spain.iptv.re:80/live/star7arab.com/star7arab.com/131.ts
+#EXTINF:-1,OSN Yahala Shabab
+http://yosriiptv.zapto.org:8000/live/test1/test1/191.ts
+#EXTINF:-1,OSN Yahala HD
+http://yosriiptv.zapto.org:8000/live/test1/test1/192.ts
+#EXTINF:-1,OSN Yahala Drama HD
+http://yosriiptv.zapto.org:8000/live/test1/test1/193.ts
+#EXTINF:-1,OSN Movies Premiere HD
+http://yosriiptv.zapto.org:8000/live/test1/test1/194.ts
+#EXTINF:-1,OSN Movies HD
+http://yosriiptv.zapto.org:8000/live/test1/test1/195.ts
+#EXTINF:-1,OSN Movies COMEDY
+http://yosriiptv.zapto.org:8000/live/test1/test1/196.ts
+#EXTINF:-1,OSN Movies Box Office 3 HD
+http://yosriiptv.zapto.org:8000/live/test1/test1/197.ts
+#EXTINF:-1,OSN Movies Box Office 2 HD
+http://yosriiptv.zapto.org:8000/live/test1/test1/198.ts
+#EXTINF:-1,OSN Movies Box Office 1 HD
+http://yosriiptv.zapto.org:8000/live/test1/test1/199.ts
+#EXTINF:-1,OSN Movies Action HD
+http://yosriiptv.zapto.org:8000/live/test1/test1/200.ts
+#EXTINF:-1,OSN Movies Action 2
+http://yosriiptv.zapto.org:8000/live/test1/test1/201.ts
+#EXTINF:-1,OSN MBC Drama HD
+http://yosriiptv.zapto.org:8000/live/test1/test1/202.ts
+#EXTINF:-1,OSN First HD
+http://yosriiptv.zapto.org:8000/live/test1/test1/203.ts
+#EXTINF:-1,OSN First Comedy
+http://yosriiptv.zapto.org:8000/live/test1/test1/204.ts
+#EXTINF:-1,OSN Cinema 2
+http://yosriiptv.zapto.org:8000/live/test1/test1/205.ts
+#EXTINF:-1,OSN Cinema 1
+http://yosriiptv.zapto.org:8000/live/test1/test1/206.ts
+#EXTINF:-1,OSN Al youm
+http://yosriiptv.zapto.org:8000/live/test1/test1/207.ts
+
+
+#EXTINF:-1,قصة الغذاء الشعور بالذنب
+http://proxy-57.dailymotion.com/sec(76f93f1026dc73175c875f2e39605cf7)/video/814/508/177805418_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1,ملفات الغذاء القهوة
+http://proxy-27.dailymotion.com/sec(ed5f573c2530e2bd55d18490a4af56d4)/video/454/909/179909454_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1, المكسرات
+http://proxy-14.dailymotion.com/sec(89195cba0f4303c3447389eaf9738eac)/video/250/684/179486052_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1,اللحم والخضروات
+http://proxy-53.dailymotion.com/sec(1dc10a3f61742965fe738dc1ff5bdeb6)/video/601/741/204147106_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1,ألعاب العقل 
+http://proxy-05.dailymotion.com/sec(ae4160997ba42fa0361842d004993cfb)/video/912/482/198284219_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1,ألعاب العقل Paranorma
+http://proxy-24.dailymotion.com/sec(b3b27cef2ffc40ec2e11f874941fa56b)/video/681/236/195632186_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1,CBC
+plugin://plugin.video.youtube/?action=play_video&videoid=1yEMLzYzE1g
+#EXTINF:-1,CBC Sofra
+plugin://plugin.video.youtube/?action=play_video&videoid=K8XaIiikpAo
+#EXTINF:-1,CBC Drama
+plugin://plugin.video.youtube/?action=play_video&videoid=uMvhnVugCjo
+#EXTINF:-1,wisal
+rtmp://109.123.123.82/wesal/wesal1
+#EXTINF:0,Sawa
+http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
