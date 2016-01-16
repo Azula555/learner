@@ -278,3 +278,44 @@ http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/428.ts
 http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/430.ts
 #EXTINF:-1, FOX CRIME HD
 http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/99.ts
+#EXTINF:-1, MBC2
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:-1, MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1, Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1, London-Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1, FASHION
+rtmp://95.67.8.43:1935/live/fashionhd
+#EXTINF:-1, TheVictoriasSecretFashionShow
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
+#EXTINF:-1, TheVictoriasSecretFashionShow
+http://46.249.213.93/iPhone/broadcast/victoriassecretangels-tablet.3gp/victoriassecretangels-tablet.3gp-mr648k.m3u8
+#EXTINF:-1, Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1, CNN
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/playlist.m3u8
+#EXTINF:-1, BBC World
+http://origin2.live.web.tv.streamprovider.net/streams/61fbfc6d840110226aa9127d5edfc2bb/index.m3u8
+#EXTINF:-1, CBS News
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1, Chicago News
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1, CBC News (CAN) [/B][/I][/COLOR] 
+rtmp://b.cdn.newschat.tv/edge/cbc_live playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/
+#EXTINF:-1, Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1, CNBC
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1, CNBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8 
+#EXTINF:-1, Global Canada
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77
+#EXTINF:-1, Global Halifax
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307535~exp=1434308135~acl=/i/*~id=17e92158-bbde-4665-a37c-817c97c7569c~hmac=1afe142fae8d05bad8895371e0834b246ce53e26af2bd6090227741f043668bd
+#EXTINF:-1, Global Toronto
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434303944~exp=1434304544~acl=/i/*~id=3f0edb02-c4e5-4596-8950-4331b8ce1baf~hmac=4acbecb511f7c3beaf085123ab9097c7a6acbd5d857fd4cefbfdfb733b666f57
+
