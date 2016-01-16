@@ -288,12 +288,6 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/p
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1, FASHION
 rtmp://95.67.8.43:1935/live/fashionhd
-#EXTINF:-1, TheVictoriasSecretFashionShow
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
-#EXTINF:-1, TheVictoriasSecretFashionShow
-http://46.249.213.93/iPhone/broadcast/victoriassecretangels-tablet.3gp/victoriassecretangels-tablet.3gp-mr648k.m3u8
-#EXTINF:-1, Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1, CNN
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/playlist.m3u8
 #EXTINF:-1, BBC World
@@ -302,8 +296,6 @@ http://origin2.live.web.tv.streamprovider.net/streams/61fbfc6d840110226aa9127d5e
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:-1, Chicago News
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1, CBC News (CAN) [/B][/I][/COLOR] 
-rtmp://b.cdn.newschat.tv/edge/cbc_live playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/
 #EXTINF:-1, Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1, CNBC
