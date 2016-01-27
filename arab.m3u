@@ -1,309 +1,396 @@
 #EXTM3U
-#EXTINF:-1, MBC 2
-http://xtv.satarabia.com:80/live/testy2016/testy2016/425.ts
-#EXTINF:-1, MBC Action
-http://xtv.satarabia.com:80/live/testy2016/testy2016/423.ts
-#EXTINF:-1, MBC Max
-http://xtv.satarabia.com:80/live/testy2016/testy2016/426.ts
-#EXTINF:-1, Rotana Music
-http://xtv.satarabia.com:80/live/testy2016/testy2016/432.ts
-#EXTINF:-1, Rotana Cinema
-http://xtv.satarabia.com:80/live/testy2016/testy2016/427.ts
-#EXTINF:-1, Rotana Classic
-http://xtv.satarabia.com:80/live/testy2016/testy2016/429.ts
-#EXTINF:-1, Rotana Clip
-http://xtv.satarabia.com:80/live/testy2016/testy2016/431.ts
-#EXTINF:-1, Rotana Khalijiah
-http://xtv.satarabia.com:80/live/testy2016/testy2016/430.ts
-#EXTINF:-1, Rotana Masriya
-http://xtv.satarabia.com:80/live/testy2016/testy2016/428.ts
-#EXTINF:-1, MBC3
-http://37.187.24.177:80/samir/samir/669.ch
-#EXTINF:-1, SPACETOON
-http://37.187.24.177:80/samir/samir/750.ch
-#EXTINF:-1, FATAFEAT
-http://37.187.24.177:80/samir/samir/697.ch
-#EXTINF:-1, MBC-1
-http://37.187.24.177:80/samir/samir/667.ch
-#EXTINF:-1, MBC2
-http://37.187.24.177:80/samir/samir/668.ch
-#EXTINF:-1, MBC4
-http://37.187.24.177:80/samir/samir/670.ch
-#EXTINF:-1, MBCAction
-http://37.187.24.177:80/samir/samir/671.ch
-#EXTINF:-1, MBCBollywood
-http://37.187.24.177:80/samir/samir/676.ch
-#EXTINF:-1, MBCDRAMA
-http://37.187.24.177:80/samir/samir/673.ch
-#EXTINF:-1, MBCMAX
-http://37.187.24.177:80/samir/samir/672.ch
-#EXTINF:-1, MBC_Masr2
-http://37.187.24.177:80/samir/samir/675.ch
-#EXTINF:-1, NATIONAL1
-http://37.187.24.177:80/samir/samir/659.ch
-#EXTINF:-1, NATIONAL2
-http://37.187.24.177:80/samir/samir/660.ch
-#EXTINF:-1, hannibal
-http://37.187.24.177:80/samir/samir/664.ch
-#EXTINF:-1, NESMA-tv
-http://37.187.24.177:80/samir/samir/662.ch
-#EXTINF:-1, TELVZA_TV
-http://37.187.24.177:80/samir/samir/665.ch
-#EXTINF:-1, ELHIWAR_ETTOUNSI
-http://37.187.24.177:80/samir/samir/658.ch
-#EXTINF:-1, TUNISNA
-http://37.187.24.177:80/samir/samir/661.ch
-#EXTINF:-1, al-janoubeya
-http://37.187.24.177:80/samir/samir/726.ch
-#EXTINF:-1, ATTESSIA-TV
-http://37.187.24.177:80/samir/samir/847.ch
-#EXTINF:-1, AL_MUTAWASIT-TV
-http://37.187.24.177:80/samir/samir/663.ch
-#EXTINF:-1, TNN
-http://37.187.24.177:80/samir/samir/952.ch
-#EXTINF:-1, FIRST-tv
-http://37.187.24.177:80/samir/samir/666.ch
-#EXTINF:-1, Panorama-Drama
-http://37.187.24.177:80/samir/samir/683.ch
-#EXTINF:-1, Panorama-Drama2
-http://37.187.24.177:80/samir/samir/682.ch
-#EXTINF:-1, Sky-News-Arabia
-http://37.187.24.177:80/samir/samir/1029.ch
-#EXTINF:-1, Panorama_Cinema
-http://37.187.24.177:80/samir/samir/1052.ch
-#EXTINF:-1, Panorama_Comedy
-http://37.187.24.177:80/samir/samir/1053.ch
-#EXTINF:-1, Rotana
-http://37.187.24.177:80/samir/samir/684.ch
-#EXTINF:-1, Rotana_Cinema_EGY
-http://37.187.24.177:80/samir/samir/687.ch
-#EXTINF:-1, Rotana_Cinema_KSA
-http://37.187.24.177:80/samir/samir/686.ch
-#EXTINF:-1, Rotana_Classic
-http://37.187.24.177:80/samir/samir/688.ch
-#EXTINF:-1, Rotana_Clip
-http://37.187.24.177:80/samir/samir/685.ch
-#EXTINF:-1, Cairo-Aflam
-http://37.187.24.177:80/samir/samir/720.ch
-#EXTINF:-1, Cairo-cinema
-http://37.187.24.177:80/samir/samir/718.ch
-#EXTINF:-1, Cairo-Comedy
-http://37.187.24.177:80/samir/samir/719.ch
-#EXTINF:-1, AD-DRAMA
-http://37.187.24.177:80/samir/samir/731.ch
-#EXTINF:-1, Cairo-Drama
-http://37.187.24.177:80/samir/samir/723.ch
-#EXTINF:-1, Cairo-Mosalsalat
-http://37.187.24.177:80/samir/samir/722.ch
-#EXTINF:-1, Cairo-Zaman
-http://37.187.24.177:80/samir/samir/721.ch
-#EXTINF:-1, Zee_Alwan
-http://37.187.24.177:80/samir/samir/753.ch
-#EXTINF:-1, EKHBARIYA-AL-SORIYA
-http://37.187.24.177:80/samir/samir/729.ch
-#EXTINF:-1, NOUREL-SHAM
-http://37.187.24.177:80/samir/samir/730.ch
-#EXTINF:-1, Layaly-Cinema
-http://37.187.24.177:80/samir/samir/727.ch
-#EXTINF:-1, SAMA-SYRIA
-http://37.187.24.177:80/samir/samir/725.ch
-#EXTINF:-1, ZEE-AFLAM
-http://37.187.24.177:80/samir/samir/752.ch
-#EXTINF:-1, B4U_Aflam
-http://37.187.24.177:80/samir/samir/759.ch
-#EXTINF:-1, Oscar-Drama
-http://37.187.24.177:80/samir/samir/724.ch
-#EXTINF:-1, Rotana_Khalijiah
-http://37.187.24.177:80/samir/samir/689.ch
-#EXTINF:-1, Rotana-Masriya
-http://37.187.24.177:80/samir/samir/690.ch
-#EXTINF:-1, Aflam_1
-http://37.187.24.177:80/samir/samir/678.ch
-#EXTINF:-1, Aflam_2
-http://37.187.24.177:80/samir/samir/679.ch
-#EXTINF:-1, ART_Cinema
-http://37.187.24.177:80/samir/samir/677.ch
-#EXTINF:-1, Hekayat
-http://37.187.24.177:80/samir/samir/680.ch
-#EXTINF:-1, Hekayat_2
-http://37.187.24.177:80/samir/samir/681.ch
-#EXTINF:-1, CBC
-http://37.187.24.177:80/samir/samir/696.ch
-#EXTINF:-1, CBC+2
-http://37.187.24.177:80/samir/samir/691.ch
-#EXTINF:-1, CBC-Drama
-http://37.187.24.177:80/samir/samir/695.ch
-#EXTINF:-1, CBC-Extra
-http://37.187.24.177:80/samir/samir/693.ch
-#EXTINF:-1, CBC-Sofra
-http://37.187.24.177:80/samir/samir/694.ch
-#EXTINF:-1, CBC-Two
-http://37.187.24.177:80/samir/samir/692.ch
-#EXTINF:-1, AL-JAZEERA
-http://37.187.24.177:80/samir/samir/765.ch
-#EXTINF:-1, Al-Jazeera-Mubasher
-http://37.187.24.177:80/samir/samir/980.ch
-#EXTINF:-1, AlMagharibia-Two
-http://37.187.24.177:80/samir/samir/1149.ch
-#EXTINF:-1, Al-Arabiya
-http://37.187.24.177:80/samir/samir/770.ch
-#EXTINF:-1, AlArabiya-Hadath
-http://37.187.24.177:80/samir/samir/769.ch
-#EXTINF:-1, AL-HAQIQA
-http://37.187.24.177:80/samir/samir/1151.ch
-#EXTINF:-1, Nile_news
-http://37.187.24.177:80/samir/samir/938.ch
-#EXTINF:-1, Al-Mayadeen
-http://37.187.24.177:80/samir/samir/1150.ch
-#EXTINF:-1, BBC-ARABIC
-http://37.187.24.177:80/samir/samir/1148.ch
 
-#EXTINF:-1, BBC Entertainment
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/416.ts
-#EXTINF:-1, Fashion HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/436.ts
-#EXTINF:-1, Fashion TV
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/638.ts
-#EXTINF:-1, BBC INTER
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/434.ts
-#EXTINF:-1, British muslim tv
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/207.ts
-#EXTINF:-1, ZOUGLA
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/208.ts
-#EXTINF:-1, GB ZEE CINEMA
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/209.ts
-#EXTINF:-1, GB True Movies 2
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/210.ts
-#EXTINF:-1, GB TRUE MOVIES 1
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/211.ts
-#EXTINF:-1, GB Sony Movies
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/212.ts
-#EXTINF:-1, GB Sky Thriller
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/213.ts
-#EXTINF:-1, GB Sky Sports News HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/214.ts
-#EXTINF:-1, GB Sky Sci-Fi
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/222.ts
-#EXTINF:-1, GB Sky One
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/223.ts
-#EXTINF:-1, GB Sky News
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/224.ts
-#EXTINF:-1, GB Sky Movies Thriller HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/225.ts
-#EXTINF:-1, GB Sky Movies Sci-Fi HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/226.ts
-#EXTINF:-1, GB Sky Movies Premiere HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/227.ts
-#EXTINF:-1, GB SKY MOVIES MODERN GREATS
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/228.ts
-#EXTINF:-1, GB Sky Movies Drama HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/229.ts
-#EXTINF:-1, GB Sky Movies Action
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/230.ts
-#EXTINF:-1, GB Sky Living
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/231.ts
-#EXTINF:-1, GB Sky ITV 4
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/232.ts
-#EXTINF:-1, GB Sky ITV 3
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/233.ts
-#EXTINF:-1, GB Sky Family
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/234.ts
-#EXTINF:-1, GB Sky Disney XD HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/235.ts
-#EXTINF:-1, GB Sky Disney
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/236.ts
-#EXTINF:-1, GB Sky Comedy
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/237.ts
-#EXTINF:-1, GB Sky Atlantic
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/238.ts
-#EXTINF:-1, GB Sky Arts 1
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/239.ts
-#EXTINF:-1, Russia Today English
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/241.ts
-#EXTINF:-1, RTE 2 HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/242.ts
-#EXTINF:-1, RTE 1 HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/243.ts
-#EXTINF:-1, Nick
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/244.ts
-#EXTINF:-1, National Geography Wild
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/245.ts
-#EXTINF:-1, MUTV
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/246.ts
-#EXTINF:-1, Mototrs TV
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/248.ts
-#EXTINF:-1, MOTORS TV
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/249.ts
-#EXTINF:-1, Living
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/250.ts
-#EXTINF:-1, ITV 1
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/251.ts
-#EXTINF:-1,  Home
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/253.ts
-#EXTINF:-1, Good Food
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/256.ts
-#EXTINF:-1, Fox
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/258.ts
-#EXTINF:-1, Food Network
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/259.ts
-#EXTINF:-1, Five
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/260.ts
-#EXTINF:-1, Film 4
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/261.ts
-#EXTINF:-1, Discovery Science HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/264.ts
-#EXTINF:-1, Discovery Science
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/265.ts
-#EXTINF:-1, Comedy Central
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/267.ts
-#EXTINF:-1, Channel 5
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/268.ts
-#EXTINF:-1, Channel 4
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/269.ts
-#EXTINF:-1, CBS Action
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/270.ts
-#EXTINF:-1, The Hunger Games Catching Fire
-http://xtv.satarabia.com:80/movie/testy2016/testy2016/167.mp4
-#EXTINF:-1, EUROSPORT NEWS
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/133.ts
-#EXTINF:-1, MOTORS TV
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/116.ts
-#EXTINF:-1, FOX MOVIES HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/97.ts
-#EXTINF:-1, FOX HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/98.ts
-#EXTINF:-1, Fox
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/428.ts
-#EXTINF:-1, Fox Life HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/430.ts
-#EXTINF:-1, FOX CRIME HD
-http://iptvcolor.myftp.biz:8000/live/ALL/S4N4SnGNU/99.ts
-#EXTINF:-1, MBC2
-http://63.237.48.23/ios/MBC2/MBC2.m3u8
-#EXTINF:-1, MBC 4
-http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1, Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1, London-Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1, FASHION
-rtmp://95.67.8.43:1935/live/fashionhd
-#EXTINF:-1, CNN
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/playlist.m3u8
-#EXTINF:-1, BBC World
-http://origin2.live.web.tv.streamprovider.net/streams/61fbfc6d840110226aa9127d5edfc2bb/index.m3u8
-#EXTINF:-1, CBS News
-http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1, Chicago News
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1, Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1, CNBC
-http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
-#EXTINF:-1, ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1, CNBC News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8 
+#EXTINF:-1,ar-Fatafeat
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/586.ts
+#EXTINF:-1,AR-MBC1
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/222.ts
+#EXTINF:-1,AR-MBC2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/223.ts
+#EXTINF:-1,AR-MBC3
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/224.ts
+#EXTINF:-1,AR-MBC4
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/225.ts
+#EXTINF:-1,AR-MBCAction
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/226.ts
+#EXTINF:-1,AR-MBCBollywood
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/230.ts
+#EXTINF:-1,AR-MBCDrama
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/228.ts
+#EXTINF:-1,AR-MBCMax
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/229.ts
+#EXTINF:-1,AR-MBCMasr
+#EXTINF:-1,AR-RotanaMusic
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/407.ts
+#EXTINF:-1,AR-RotanaMasriya
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/406.ts
+#EXTINF:-1,AR-RotanaKhaligi
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/405.ts
+#EXTINF:-1,AR-RotanaClassic
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/404.ts
+#EXTINF:-1,AR-RotanaCinema
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/408.ts
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/227.ts
+#EXTINF:-1,AR-CBCSofra
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/412.ts
+#EXTINF:-1,AR-CBCDrama
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/411.ts
+#EXTINF:-1,AR-CBC2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/410.ts
+#EXTINF:-1,AR-CBC
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/409.ts
+#EXTINF:-1,AR-ArtCinema
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/236.ts
+#EXTINF:-1,AR-ArtAflam2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/235.ts
+#EXTINF:-1,AR-ArtAflam1
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/234.ts
+#EXTINF:-1,AR-ZeeAlwan
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/423.ts
+#EXTINF:-1,AR-ZeeAflam
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/231.ts
+#EXTINF:-1,AR-DubaiDrama
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/238.ts
+#EXTINF:-1,AR-TimeComedy
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/421.ts
+#EXTINF:-1,AR-TimeCinema
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/420.ts
+#EXTINF:-1,AR-StarCinema2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/240.ts
+#EXTINF:-1,AR-StarCinema1
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/239.ts
+#EXTINF:-1,AR-NileTV
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/413.ts
+#EXTINF:-1,AR-NileSport
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/130.ts
+#EXTINF:-1,AR-NileLife
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/418.ts
+#EXTINF:-1,AR-NileDrama
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/416.ts
+#EXTINF:-1,AR-NileComedy
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/415.ts
+#EXTINF:-1,AR-NileCinema
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/414.ts
+#EXTINF:-1,AR-MogaComedy
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/237.ts
+#EXTINF:-1,UK-SkyThriller
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/141.ts
+#EXTINF:-1,UK-SkySelect
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/131.ts
+#EXTINF:-1,UK-SkyScifi&horror
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/138.ts
+#EXTINF:-1,UK-SkyPremiere
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/137.ts
+#EXTINF:-1,UK-SkyGreats
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/140.ts
+#EXTINF:-1,UK-SkyFamily
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/136.ts
+#EXTINF:-1,UK-SkyDrama
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/135.ts
+#EXTINF:-1,UK-SkyComedy
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/134.ts
+#EXTINF:-1,UK-SkyAtlantic
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/142.ts
+#EXTINF:-1,UK-SkyAction
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/133.ts
+#EXTINF:-1,AR-Otv
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/547.ts
+#EXTINF:-1,AR-Ontv
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/548.ts
+#EXTINF:-1,AR-MTVLebanon
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/546.ts
+#EXTINF:-1,AR-Ldc
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/549.ts
+#EXTINF:-1,AR-Future
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/542.ts
+#EXTINF:-1,AR-Al-ManarTV
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/543.ts
+#EXTINF:-1,AR-AlMayadeenTV
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/544.ts
+#EXTINF:-1,AR-AlJadeed
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/545.ts
+#EXTINF:-1,ES-La2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/537.ts
+#EXTINF:-1,ar-TOYORALJANAH
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/535.ts
+#EXTINF:-1,Alaoula Laayoun
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/719.ts
+#EXTINF:-1,AR-MBCPRO3-
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/718.ts
+#EXTINF:-1,AR-MBCPRO2HD-
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/717.ts
+#EXTINF:-1,AR-MBCPRO1HD-
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/716.ts
+#EXTINF:-1,ar-SamaDubai
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/631.ts
+#EXTINF:-1,ar-SadaAlBalad
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/618.ts
+#EXTINF:-1,ar-RussiaAlyaum
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/614.ts
+#EXTINF:-1,ar-RotanaClip
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/642.ts
+#EXTINF:-1,ar-Qatar
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/632.ts
+#EXTINF:-1,ar-PanoramaDrama
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/621.ts
+#EXTINF:-1,ar-Noordubai
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/630.ts
+#EXTINF:-1,ar-MelodyClassic
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/616.ts
+#EXTINF:-1,ar-MBCMasr2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/643.ts
+#EXTINF:-1,ar-Kuwait
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/634.ts
+#EXTINF:-1,ar-France24Arabic
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/639.ts
+#EXTINF:-1,ar-DubaiOne
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/628.ts
+#EXTINF:-1,ar-Dubai
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/629.ts
+#EXTINF:-1,ar-Dream2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/625.ts
+#EXTINF:-1,ar-Dream1
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/624.ts
+#EXTINF:-1,ar-CairoDrama
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/623.ts
+#EXTINF:-1,ar-CairoCinema
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/622.ts
+#EXTINF:-1,ar-BBCArabic
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/638.ts
+#EXTINF:-1,ar-Bahrain
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/633.ts
+#EXTINF:-1,ar-ArtHekayat2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/640.ts
+#EXTINF:-1,ar-ArtHekayat
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/641.ts
+#EXTINF:-1,ar-ArabicaTv
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/617.ts
+#EXTINF:-1,ar-AlRahma
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/637.ts
+#EXTINF:-1,ar-AlNaharDrama
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/619.ts
+#EXTINF:-1,ar-Alnahar
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/620.ts
+#EXTINF:-1,ar-AlhurraIraq
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/635.ts
+#EXTINF:-1,ar-Alhayat2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/627.ts
+#EXTINF:-1,ar-ALHayat
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/626.ts
+#EXTINF:-1,ar-AlArabiaHadath
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/636.ts
+#EXTINF:-1,ar-abu_dhabi
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/613.ts
+#EXTINF:-1,ar-Syria
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/588.ts
+#EXTINF:-1,ar-orient
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/590.ts
+#EXTINF:-1,ar-NBN
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/589.ts
+#EXTINF:-1,ar-lbc
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/591.ts
+#EXTINF:-1,ar-Jeem
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/587.ts
+#EXTINF:-1,ar-alarabiya
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/585.ts
+#EXTINF:-1,ar-SPACETOON
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/534.ts
+#EXTINF:-1,ar-CARTOONNETWORK
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/532.ts
+#EXTINF:-1,DWArabia
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/874.ts
+#EXTINF:-1,AlnaharAlyaoum
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/857.ts
+#EXTINF:-1,Ajyal
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/871.ts
+#EXTINF:-1,Mazzika
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/873.ts
+#EXTINF:-1,EuroNews
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/872.ts
+#EXTINF:-1,Saudi sport2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/870.ts
+#EXTINF:-1,KSA2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/867.ts
+#EXTINF:-1,Saudi sport1
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/869.ts
+#EXTINF:-1,Karameesh
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/868.ts
+#EXTINF:-1,Ten
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/866.ts
+#EXTINF:-1,Ar-4shabab1
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/865.ts
+#EXTINF:-1,IraqiaSport
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/858.ts
+#EXTINF:-1,Sunnah
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/985.ts
+#EXTINF:-1,Funoon
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/862.ts
+#EXTINF:-1,ar-DubaiZaman
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/861.ts
+#EXTINF:-1,Cima
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/860.ts
+#EXTINF:-1,BaynounahTv
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/856.ts
+#EXTINF:-1,hona Baghdad
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/855.ts
+#EXTINF:-1,ar-Makkah
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/816.ts
+#EXTINF:-1,ar-Alaqsa
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/815.ts
+#EXTINF:-1,AlThaniya
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/840.ts
+#EXTINF:-1,AlSharqia
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/839.ts
+#EXTINF:-1,Alrasheed
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/846.ts
+#EXTINF:-1,AlRafidain
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/838.ts
+#EXTINF:-1,Alqudis
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/853.ts
+#EXTINF:-1,Ar-Zeeliving
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/834.ts
+#EXTINF:-1,AlMehwar
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/833.ts
+#EXTINF:-1,AlMasriyah
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/832.ts
+#EXTINF:-1,AlkassTv
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/859.ts
+#EXTINF:-1,AlKaheraWalNas
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/829.ts
+#EXTINF:-1,AljazeeraMisr
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/852.ts
+#EXTINF:-1,AljazeeraDoc
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/851.ts
+#EXTINF:-1,AlIraqiya
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/828.ts
+#EXTINF:-1,Abudhabisport3
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/842.ts
+#EXTINF:-1,AlEkhbaria
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/826.ts
+#EXTINF:-1,Ar-Suhailtv
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/825.ts
+#EXTINF:-1,AlBaghdadia
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/824.ts
+#EXTINF:-1,ar-Alsumaria
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/847.ts
+#EXTINF:-1,Ar-Alsaidayemen
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/822.ts
+#EXTINF:-1,Aghanina
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/821.ts
+#EXTINF:-1,AbuDhabiEmarat
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/819.ts
+#EXTINF:-1,AbuDhabiDrama
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/818.ts
+#EXTINF:-1,Zaytoona
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/883.ts
+#EXTINF:-1,Wanasah
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/882.ts
+#EXTINF:-1,Halab Today
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/881.ts
+#EXTINF:-1,SyriaDrama
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/880.ts
+#EXTINF:-1,Semsem
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/879.ts
+#EXTINF:-1,Roya
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/877.ts
+#EXTINF:-1,PanoramaDrama2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/876.ts
+#EXTINF:-1,Palestine
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/875.ts
+
+
+
+
+
+#EXTINF:-1,UK-TrueMovies1
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/644.ts
+#EXTINF:-1,UK-SyFy
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/651.ts
+#EXTINF:-1,UK-SkyNews
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/654.ts
+#EXTINF:-1,UK-SkyOneHD
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/655.ts
+#EXTINF:-1,UK-SkyArts1
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/659.ts
+#EXTINF:-1,UK-RTE2
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/660.ts
+#EXTINF:-1,UK-RTE1
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/661.ts
+#EXTINF:-1,UK-Quest
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/662.ts
+#EXTINF:-1,UK-PickTV
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/663.ts
+#EXTINF:-1,UK-NationalGeographyWild
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/667.ts
+#EXTINF:-1,UK-NatGeoChannel
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/669.ts
+#EXTINF:-1,UK-MTV
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/672.ts
+#EXTINF:-1,UK-Movies4Men
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/673.ts
+#EXTINF:-1,UK-More4
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/674.ts
+#EXTINF:-1,UK-LivingUK
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/675.ts
+#EXTINF:-1,UK-Liverpool
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/676.ts
+#EXTINF:-1,UK-ITV4HD
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/679.ts
+#EXTINF:-1,UK-ITV3HD
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/680.ts
+#EXTINF:-1,UK-ITV2HD
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/681.ts
+#EXTINF:-1,UK-ITV1HD
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/682.ts
+#EXTINF:-1,UK-Home
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/684.ts
+#EXTINF:-1,UK-HistoryChannel
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/685.ts
+#EXTINF:-1,UK-Gold
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/687.ts
+#EXTINF:-1,UK-FoodNetwork
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/688.ts
+#EXTINF:-1,UK-Film4UK
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/689.ts
+#EXTINF:-1,UK-DisneyXD
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/692.ts
+#EXTINF:-1,UK-DISNEYJUNIOR
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/693.ts
+#EXTINF:-1,UK-DisneyChannel
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/694.ts
+#EXTINF:-1,UK-DiscoveryScience
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/695.ts
+#EXTINF:-1,UK-DiscoveryHistory
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/696.ts
+#EXTINF:-1,UK-DiscoveryChannel
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/697.ts
+#EXTINF:-1,UK-ComedyCentral
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/699.ts
+#EXTINF:-1,UK-CnnInt
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/700.ts
+#EXTINF:-1,UK-Chelsea
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/701.ts
+#EXTINF:-1,UK-Channel5
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/702.ts
+#EXTINF:-1,UK-Channel4HD
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/703.ts
+#EXTINF:-1,UK-CartoonNetwork
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/704.ts
+#EXTINF:-1,UK-BBC2HD
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/708.ts
+#EXTINF:-1,UK-BBC1HD
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/709.ts
+#EXTINF:-1,UK-BBC4HD
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/710.ts
+#EXTINF:-1,UK-BBC3HD
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/711.ts
+#EXTINF:-1,UK-AtTheRacesUK
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/713.ts
+#EXTINF:-1,UK-5USA
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/714.ts
+#EXTINF:-1,UK-3e
+http://iptv.ndasat.com:88/live/MOUSTAPHA/MOUSTAPHA/715.ts
+
+
 #EXTINF:-1, Global Canada
 https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77
 #EXTINF:-1, Global Halifax
