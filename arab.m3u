@@ -1,4 +1,199 @@
 #EXTM3U
+#EXTINF:-1,MBC MAX
+http://evolive-tv.com:8000/live/genio/genio/46.ts
+#EXTINF:-1,MBC ACTION
+http://evolive-tv.com:8000/live/genio/genio/237.ts
+#EXTINF:-1,MBC MASR 2
+http://evolive-tv.com:8000/live/genio/genio/49.ts
+#EXTINF:-1,MBC MASR
+http://evolive-tv.com:8000/live/genio/genio/48.ts
+#EXTINF:-1,MBC DRAMA
+http://evolive-tv.com:8000/live/genio/genio/47.ts
+#EXTINF:-1,MBC bollywood
+http://evolive-tv.com:8000/live/genio/genio/45.ts
+#EXTINF:-1,MBC 4
+http://evolive-tv.com:8000/live/genio/genio/44.ts
+#EXTINF:-1,MBC 3
+http://evolive-tv.com:8000/live/genio/genio/43.ts
+#EXTINF:-1,MBC 2
+http://evolive-tv.com:8000/live/genio/genio/42.ts
+#EXTINF:-1,MBC
+http://evolive-tv.com:8000/live/genio/genio/41.ts
+#EXTINF:-1,[COLOR green]--- UK ---[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,Sky Sport 1
+http://evolive-tv.com:8000/live/genio/genio/70.ts
+#EXTINF:-1,Sky Sport 2
+http://evolive-tv.com:8000/live/genio/genio/71.ts
+#EXTINF:-1,Sky Sport 3
+http://evolive-tv.com:8000/live/genio/genio/72.ts
+#EXTINF:-1,Sky Sport 4
+http://evolive-tv.com:8000/live/genio/genio/73.ts
+#EXTINF:-1,Sky Sport 5
+http://evolive-tv.com:8000/live/genio/genio/74.ts
+#EXTINF:-1,BBC 2
+http://evolive-tv.com:8000/live/genio/genio/211.ts
+#EXTINF:-1,BBC
+http://evolive-tv.com:8000/live/genio/genio/210.ts
+#EXTINF:-1,SKY-UK MOVIES ACTION
+http://evolive-tv.com:8000/live/genio/genio/178.ts
+
+#EXTINF:-1,[COLOR green]--- Netherland ---[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,NL-FILM1 PREMIERE HD
+http://evolive-tv.com:8000/live/genio/genio/171.ts
+#EXTINF:-1,NL-FOX SPORTS 1 EREDIVISIE
+http://evolive-tv.com:8000/live/genio/genio/174.ts
+#EXTINF:-1,NL-HBO HD
+http://evolive-tv.com:8000/live/genio/genio/173.ts
+#EXTINF:-1,NL-HBO 2
+http://evolive-tv.com:8000/live/genio/genio/172.ts
+#EXTINF:-1,NL-HBO 3
+http://evolive-tv.com:8000/live/genio/genio/170.ts
+
+#EXTINF:-1,[COLOR green]--- ARABIC ---[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,TUNISIA 1
+http://evolive-tv.com:8000/live/genio/genio/9.ts
+#EXTINF:-1,TUNISIA 2
+http://evolive-tv.com:8000/live/genio/genio/31.ts
+#EXTINF:-1,ELHIWAR ETTOUNSI
+http://evolive-tv.com:8000/live/genio/genio/32.ts
+#EXTINF:-1,ETTOUNISIA TV
+http://evolive-tv.com:8000/live/genio/genio/38.ts
+#EXTINF:-1,HANNIBAL
+http://evolive-tv.com:8000/live/genio/genio/33.ts
+#EXTINF:-1,NISSMA
+http://evolive-tv.com:8000/live/genio/genio/30.ts
+#EXTINF:-1,ETTASSIA
+http://evolive-tv.com:8000/live/genio/genio/39.ts
+#EXTINF:-1,ZAITOUNA TV
+http://evolive-tv.com:8000/live/genio/genio/40.ts
+#EXTINF:-1,TUNISNA
+http://evolive-tv.com:8000/live/genio/genio/36.ts
+#EXTINF:-1,JANOUBIA
+http://evolive-tv.com:8000/live/genio/genio/34.ts
+#EXTINF:-1,MUTAWASSIT
+http://evolive-tv.com:8000/live/genio/genio/37.ts
+#EXTINF:-1,FIRST TV
+http://evolive-tv.com:8000/live/genio/genio/35.ts
+#EXTINF:-1,ART CINEMA
+http://evolive-tv.com:8000/live/genio/genio/52.ts
+#EXTINF:-1,ART AFLAM1
+http://evolive-tv.com:8000/live/genio/genio/53.ts
+#EXTINF:-1,ART AFLAM2
+http://evolive-tv.com:8000/live/genio/genio/54.ts
+#EXTINF:-1,ART HEKAYAT
+http://evolive-tv.com:8000/live/genio/genio/55.ts
+#EXTINF:-1,AR:OSN MOVIES HD
+http://evolive-tv.com:8000/live/genio/genio/191.ts
+#EXTINF:-1,OSN-MBC DRAMA
+http://evolive-tv.com:8000/live/genio/genio/194.ts
+#EXTINF:-1,OSN CINEMA 1
+http://evolive-tv.com:8000/live/genio/genio/196.ts
+#EXTINF:-1,OSN CINEMA 2
+http://evolive-tv.com:8000/live/genio/genio/195.ts
+#EXTINF:-1,AR:OSN MOVIES DRAMA
+http://evolive-tv.com:8000/live/genio/genio/192.ts
+#EXTINF:-1,OSN-YaHala-HD
+http://evolive-tv.com:8000/live/genio/genio/193.ts
+#EXTINF:-1,AL_Nahar
+http://evolive-tv.com:8000/live/genio/genio/251.ts
+#EXTINF:-1,Al-Nahar_Drama
+http://evolive-tv.com:8000/live/genio/genio/253.ts
+#EXTINF:-1,AR-CBC
+http://evolive-tv.com:8000/live/genio/genio/249.ts
+#EXTINF:-1,CBC 2
+http://evolive-tv.com:8000/live/genio/genio/248.ts
+#EXTINF:-1,CBC_DRAMA
+http://evolive-tv.com:8000/live/genio/genio/247.ts
+#EXTINF:-1,CBC_eXtra
+http://evolive-tv.com:8000/live/genio/genio/246.ts
+#EXTINF:-1,CBC_SOFRA
+http://evolive-tv.com:8000/live/genio/genio/245.ts
+#EXTINF:-1,MBC MAX
+http://evolive-tv.com:8000/live/genio/genio/46.ts
+#EXTINF:-1,MBC ACTION
+http://evolive-tv.com:8000/live/genio/genio/237.ts
+#EXTINF:-1,MBC MASR 2
+http://evolive-tv.com:8000/live/genio/genio/49.ts
+#EXTINF:-1,MBC MASR
+http://evolive-tv.com:8000/live/genio/genio/48.ts
+#EXTINF:-1,MBC DRAMA
+http://evolive-tv.com:8000/live/genio/genio/47.ts
+#EXTINF:-1,MBC bollywood
+http://evolive-tv.com:8000/live/genio/genio/45.ts
+#EXTINF:-1,MBC 4
+http://evolive-tv.com:8000/live/genio/genio/44.ts
+#EXTINF:-1,MBC 3
+http://evolive-tv.com:8000/live/genio/genio/43.ts
+#EXTINF:-1,MBC 2
+http://evolive-tv.com:8000/live/genio/genio/42.ts
+#EXTINF:-1,MBC
+http://evolive-tv.com:8000/live/genio/genio/41.ts
+#EXTINF:-1,Iqraa
+http://evolive-tv.com:8000/live/genio/genio/240.ts
+#EXTINF:-1,AL_RESALAH
+http://evolive-tv.com:8000/live/genio/genio/250.ts
+#EXTINF:-1,Toyor_Al_Janah
+http://evolive-tv.com:8000/live/genio/genio/217.ts
+#EXTINF:-1,TAHA
+http://evolive-tv.com:8000/live/genio/genio/218.ts
+#EXTINF:-1,SPACETOON
+http://evolive-tv.com:8000/live/genio/genio/219.ts
+#EXTINF:-1,KARAMEESH
+http://evolive-tv.com:8000/live/genio/genio/239.ts
+#EXTINF:-1,ALquds
+http://evolive-tv.com:8000/live/genio/genio/252.ts
+#EXTINF:-1,Rotana_Aflam
+http://evolive-tv.com:8000/live/genio/genio/221.ts
+#EXTINF:-1,RotanaKhaliji
+http://evolive-tv.com:8000/live/genio/genio/223.ts
+#EXTINF:-1,Rotana masr
+http://evolive-tv.com:8000/live/genio/genio/222.ts
+#EXTINF:-1,ROTANA_CINE_EGY
+http://evolive-tv.com:8000/live/genio/genio/225.ts
+#EXTINF:-1,Rotana clip
+http://evolive-tv.com:8000/live/genio/genio/224.ts
+#EXTINF:-1,Rotana_Classic
+http://evolive-tv.com:8000/live/genio/genio/220.ts
+#EXTINF:-1,Rotana
+http://evolive-tv.com:8000/live/genio/genio/226.ts
+#EXTINF:-1,Nour dubai
+http://evolive-tv.com:8000/live/genio/genio/227.ts
+#EXTINF:-1,Noor Jordan
+http://evolive-tv.com:8000/live/genio/genio/228.ts
+#EXTINF:-1,NILE_SPORT
+http://evolive-tv.com:8000/live/genio/genio/229.ts
+#EXTINF:-1,NILE_NEWS
+http://evolive-tv.com:8000/live/genio/genio/230.ts
+#EXTINF:-1,NILE_LIFE
+http://evolive-tv.com:8000/live/genio/genio/231.ts
+#EXTINF:-1,NILE_FAMILY
+http://evolive-tv.com:8000/live/genio/genio/232.ts
+#EXTINF:-1,NILE_DRAMA
+http://evolive-tv.com:8000/live/genio/genio/233.ts
+#EXTINF:-1,NILE_CULTURE
+http://evolive-tv.com:8000/live/genio/genio/234.ts
+#EXTINF:-1,Nile Comedy
+http://evolive-tv.com:8000/live/genio/genio/235.ts
+#EXTINF:-1,NILE_CINEMA
+http://evolive-tv.com:8000/live/genio/genio/236.ts
+#EXTINF:-1,MajdKidsTV
+http://evolive-tv.com:8000/live/genio/genio/238.ts
+#EXTINF:-1,Cima
+http://evolive-tv.com:8000/live/genio/genio/244.ts
+#EXTINF:-1,DUBAI_ONE_HD
+http://evolive-tv.com:8000/live/genio/genio/242.ts
+#EXTINF:-1,DUBAI_DRAMA_HD
+http://evolive-tv.com:8000/live/genio/genio/243.ts
+#EXTINF:-1,DUBAI_SPORT_1_HD
+http://evolive-tv.com:8000/live/genio/genio/241.ts
+#EXTINF:-1,ABOU_DHABI_1
+http://evolive-tv.com:8000/live/genio/genio/258.ts
+#EXTINF:-1,ADdrama
+http://evolive-tv.com:8000/live/genio/genio/257.ts
+
 
 #EXTINF:-1,Tunesia Wataniya 1
 http://2.109.65.143/masa/14309.m3u8 
