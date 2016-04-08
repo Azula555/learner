@@ -1,4 +1,83 @@
 #EXTM3U
+#EXTINF:0,MBC1
+http://51.255.84.13:8000/live/free123/free123/242.ts
+#EXTINF:0,MBC-Drama
+http://51.255.84.13:8000/live/free123/free123/246.ts
+#EXTINF:0,MBC4
+http://51.255.84.13:8000/live/free123/free123/245.ts
+#EXTINF:0,MBC3
+http://51.255.84.13:8000/live/free123/free123/244.ts
+#EXTINF:0,MBC2
+http://51.255.84.13:8000/live/free123/free123/243.ts
+#EXTINF:0,MBC-Max
+http://51.255.84.13:8000/live/free123/free123/247.ts
+#EXTINF:0,MBC-Action
+http://51.255.84.13:8000/live/free123/free123/248.ts
+#EXTINF:0,Sama Dubai
+http://51.255.84.13:8000/live/free123/free123/473.ts
+#EXTINF:0,Royal Edhak
+http://51.255.84.13:8000/live/free123/free123/389.ts
+#EXTINF:0,Roya TV
+http://51.255.84.13:8000/live/free123/free123/487.ts
+#EXTINF:0,Rotana Music
+http://51.255.84.13:8000/live/free123/free123/403.ts
+#EXTINF:0,Rotana Masriya
+http://51.255.84.13:8000/live/free123/free123/400.ts
+#EXTINF:0,Rotana Khaligi
+http://51.255.84.13:8000/live/free123/free123/402.ts
+#EXTINF:0,Rotana Clip
+http://51.255.84.13:8000/live/free123/free123/401.ts
+#EXTINF:0,Rotana Classic
+http://51.255.84.13:8000/live/free123/free123/404.ts
+#EXTINF:0,Rotana Cinema
+http://51.255.84.13:8000/live/free123/free123/399.ts
+#EXTINF:0,Panorama Film
+http://51.255.84.13:8000/live/free123/free123/406.ts
+#EXTINF:0,Panorama Drama
+http://51.255.84.13:8000/live/free123/free123/407.ts
+#EXTINF:0,Panorama Comedy
+http://51.255.84.13:8000/live/free123/free123/405.ts
+#EXTINF:0,Otv Lebanon
+http://51.255.84.13:8000/live/free123/free123/440.ts
+#EXTINF:0,Orient News
+http://51.255.84.13:8000/live/free123/free123/467.ts
+#EXTINF:0,ONTV
+http://51.255.84.13:8000/live/free123/free123/426.ts
+#EXTINF:0,Nogoum FM Tv
+http://51.255.84.13:8000/live/free123/free123/390.ts
+#EXTINF:0,Abu Dhabi HD
+http://51.255.84.13:8000/live/free123/free123/468.ts
+#EXTINF:0,Abu Dhabi Drama HD
+http://51.255.84.13:8000/live/free123/free123/469.ts
+#EXTINF:0,Nile Life
+http://51.255.84.13:8000/live/free123/free123/412.ts
+#EXTINF:0,Nile Cinema
+http://51.255.84.13:8000/live/free123/free123/411.ts
+#EXTINF:0,Mazzika
+http://51.255.84.13:8000/live/free123/free123/394.ts
+#EXTINF:0,Masria Esc 1
+http://51.255.84.13:8000/live/free123/free123/478.ts
+#EXTINF:0,Dubai One
+http://51.255.84.13:8000/live/free123/free123/472.ts
+#EXTINF:0,Dream Tv
+http://51.255.84.13:8000/live/free123/free123/415.ts
+#EXTINF:0,CNBC Arabia
+http://51.255.84.13:8000/live/free123/free123/383.ts
+#EXTINF:0,Cima
+http://51.255.84.13:8000/live/free123/free123/397.ts
+#EXTINF:0,CBC TV
+http://51.255.84.13:8000/live/free123/free123/420.ts
+#EXTINF:0,CBC Extra
+http://51.255.84.13:8000/live/free123/free123/422.ts
+#EXTINF:0,CBC Drama
+http://51.255.84.13:8000/live/free123/free123/421.ts
+#EXTINF:0,Cartoon Network
+http://51.255.84.13:8000/live/free123/free123/428.ts
+#EXTINF:0,Cairo Cinema
+http://51.255.84.13:8000/live/free123/free123/419.ts
+#EXTINF:0,Blue Nile
+http://51.255.84.13:8000/live/free123/free123/492.ts
+
 
 
 #EXTINF:-1, Global Canada
